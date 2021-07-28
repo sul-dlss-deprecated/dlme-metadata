@@ -1,0 +1,49 @@
+<ns0:record xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns0="http://www.loc.gov/zing/srw/" xmlns:ns1="http://www.openarchives.org/OAI/2.0/oai_dc/">
+            <ns0:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</ns0:recordSchema>
+            <ns0:recordPacking>xml</ns0:recordPacking>
+            <ns0:recordData>
+                <ns1:dc>
+                    <dc:contributor>Bah&#487;at, &#703;Al&#299; (1858-1924). Traducteur</dc:contributor>
+                    <dc:contributor>&#1593;&#1603;&#1608;&#1588;, &#1605;&#1581;&#1605;&#1608;&#1583;. Traducteur</dc:contributor>
+                    <dc:contributor>&#703;Akku&#353;, Ma&#7717;m&#363;d. Traducteur</dc:contributor>
+                    <dc:contributor>Mus&#233;e de l'art islamique (Le Caire). &#201;diteur scientifique</dc:contributor>
+                    <dc:creator>Gabriel, Albert (1883-1972). Auteur du texte</dc:creator>
+                    <dc:date>1928</dc:date>
+                    <dc:description>Titre original : Fouilles d'al Foust&#226;t</dc:description>
+                    <dc:description>Num&#233;ris&#233; par le partenaire</dc:description>
+                    <dc:description>Appartient &#224; l&#8217;ensemble documentaire : BbLevt0</dc:description>
+                    <dc:description>Num&#233;ris&#233; par le partenaire</dc:description>
+                    <dc:format>1 vol. (139 p.-XXXII p. de pl.) : ill. ; 37 cm</dc:format>
+                    <dc:format>Nombre total de vues : 235</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k91092669</dc:identifier>
+                    <dc:language>ara</dc:language>
+                    <dc:language>arabe</dc:language>
+                    <dc:publisher>&#1604;&#1580;&#1606;&#1577; &#1581;&#1601;&#1592; &#1575;&#1604;&#1571;&#1579;&#1575;&#1585; &#1575;&#1604;&#1593;&#1585;&#1576;&#1610;&#1577;&#1548; &#1583;&#1575;&#1585; &#1575;&#1604;&#1571;&#1579;&#1575;&#1585; &#1575;&#1604;&#1593;&#1585;&#1576;&#1610;&#1577; (&#1575;&#1604;&#1602;&#1575;&#1607;&#1585;&#1577;)</dc:publisher>
+                    <dc:publisher>&#1605;&#1591;&#1576;&#1593;&#1577; &#1583;&#1575;&#1585; &#1575;&#1604;&#1603;&#1578;&#1576; &#1575;&#1604;&#1605;&#1589;&#1585;&#1610;&#1577; (&#1575;&#1604;&#1602;&#1575;&#1607;&#1585;&#1577;)</dc:publisher>
+                    <dc:publisher>La&#487;na&#7831; &#7717;if&#7827; al-&#257;&#7791;&#257;r al-&#703;arabiyya&#7831;, dar al-&#257;&#7791;&#257;r al-&#703;arabiyya&#7831; (Al-Q&#257;hira&#7831;)</dc:publisher>
+                    <dc:publisher>Ma&#7789;ba&#703;a&#7831; d&#257;r al-kutub al-mi&#7779;riyya&#7831; (Al-Q&#257;hira&#7831;)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb44588972t</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Institut fran&#231;ais d'arch&#233;ologie orientale</dc:source>
+                    <dc:subject>Fouilles arch&#233;ologiques -- &#201;gypte -- Fust&#257;t (&#201;gypte)</dc:subject>
+                    <dc:title>&#1603;&#1578;&#1575;&#1576; &#1581;&#1601;&#1585;&#1610;&#1575;&#1578; &#1575;&#1604;&#1601;&#1587;&#1591;&#1575;&#1591; / &#1571;&#1604;&#1601;&#1607; &#1608;&#1608;&#1602;&#1601; &#1593;&#1604;&#1609; &#1591;&#1576;&#1593;&#1607; &#1608;&#1606;&#1588;&#1585;&#1607; &#1576;&#1575;&#1604;&#1604;&#1594;&#1577; &#1575;&#1604;&#1601;&#1585;&#1606;&#1587;&#1610;&#1577; &#1593;&#1604;&#1610; &#1576;&#1607;&#1580;&#1578; &#1608;&#1571;&#1604;&#1576;&#1610;&#1585; &#1580;&#1576;&#1585;&#1610;&#1604; ; &#1606;&#1602;&#1604;&#1607; &#1573;&#1604;&#1609; &#1575;&#1604;&#1604;&#1594;&#1577; &#1575;&#1604;&#1593;&#1585;&#1576;&#1610;&#1577; &#1593;&#1604;&#1610; &#1576;&#1607;&#1580;&#1578; &#1608;&#1605;&#1581;&#1605;&#1608;&#1583; &#1593;&#1603;&#1608;&#1588;</dc:title>
+                    <dc:title>Kitab &#7717;afriyy&#257;t al-Fus&#7789;&#257;&#7789; / allafahu wa-waqaf &#703;al&#225; &#7789;ab&#703;ihi wa-na&#353;arahu bi-al-lu&#289;a&#7831; al-faransiyya&#7831; &#703;Al&#299; Bah&#487;at wa-Alb&#299;r &#486;ibr&#299;l ; naqalahu il&#225; al-&#703;arabiyya&#7831; &#703;Al&#299; Bah&#487;at wa-Ma&#7717;m&#363;d &#703;Akku&#353;</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprim&#233;e</dc:type>
+                    <dc:type>monographie imprim&#233;e</dc:type>
+                </ns1:dc>
+            </ns0:recordData>
+            <ns0:recordIdentifier>ark</ns0:recordIdentifier>
+            <ns0:recordPosition>38</ns0:recordPosition>
+            <ns0:extraRecordData>
+                <epubFile />
+                <infoSupModifiable />
+                <link>https://gallica.bnf.fr/ark:/12148/bpt6k91092669</link>
+                <nqamoyen>0.0</nqamoyen>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k91092669.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bpt6k91092669</uri>
+            </ns0:extraRecordData>
+        </ns0:record>
+        

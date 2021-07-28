@@ -1,0 +1,38 @@
+<ns0:record xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns0="http://www.loc.gov/zing/srw/" xmlns:ns1="http://www.openarchives.org/OAI/2.0/oai_dc/">
+            <ns0:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</ns0:recordSchema>
+            <ns0:recordPacking>xml</ns0:recordPacking>
+            <ns0:recordData>
+                <ns1:dc>
+                    <dc:contributor>&#703;Idw&#299;, &#7716;asan al- (1806-1886). Correcteur</dc:contributor>
+                    <dc:creator>&#352;a&#703;r&#257;n&#299;, &#703;Abd al-Wahh&#257;b ibn A&#7717;mad ibn &#703;Al&#299; al-Ans&#803;&#257;r&#299; al- (1493-1565). Auteur du texte</dc:creator>
+                    <dc:description>[Al-yaw&#257;q&#299;t wa-al-&#487;aw&#257;hir f&#299; bay&#257;n &#703;aq&#257;&#702;id al-ak&#257;bir. 1548]</dc:description>
+                    <dc:description>Appartient &#224; l&#8217;ensemble documentaire : BbLevt0</dc:description>
+                    <dc:format>2 volumes (207 ; 4, 267 pages) ; 23 &#215; 31 cm</dc:format>
+                    <dc:format>Nombre total de vues : 473</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bd6t5253264m</dc:identifier>
+                    <dc:language>ara</dc:language>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb44588839q</dc:relation>
+                    <dc:relation>Notice dans un autre catalogue : http://alkindi.ideo-cairo.org/manifestation/5852</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Institut dominicain d'&#233;tudes orientales, 9-751_16-30</dc:source>
+                    <dc:title>&#1603;&#1578;&#1575;&#1576; &#1575;&#1604;&#1610;&#1608;&#1575;&#1602;&#1610;&#1578; &#1608;&#1575;&#1604;&#1580;&#1608;&#1575;&#1607;&#1585; &#1601;&#1610; &#1576;&#1610;&#1575;&#1606; &#1593;&#1602;&#1575;&#1574;&#1583; &#1575;&#1604;&#1571;&#1603;&#1575;&#1576;&#1585; / &#1604;&#1604;&#1573;&#1605;&#1575;&#1605; &#1575;&#1604;&#1593;&#1575;&#1585;&#1601; &#1576;&#1575;&#1604;&#1604;&#1607; &#1578;&#1593;&#1575;&#1604;&#1609; &#1587;&#1610;&#1583;&#1610; &#1593;&#1576;&#1583; &#1575;&#1604;&#1608;&#1607;&#1575;&#1576; &#1575;&#1604;&#1588;&#1593;&#1585;&#1575;&#1606;&#1610; (...)</dc:title>
+                    <dc:title>Kit&#257;b al-yaw&#257;q&#299;t wa-al-&#487;aw&#257;hir fi-bay&#257;n &#703;aq&#257;&#702;id al-ak&#257;bir / li-l-im&#257;m al-&#703;&#257;rif bi-ll&#226;h ta&#703;&#257;l&#225; sayyid&#299; &#703;Abd al-Wahh&#257;b al-&#352;a&#703;r&#257;n&#299; (...)</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprim&#233;e</dc:type>
+                    <dc:type>printed monograph</dc:type>
+                </ns1:dc>
+            </ns0:recordData>
+            <ns0:recordIdentifier>ark</ns0:recordIdentifier>
+            <ns0:recordPosition>34</ns0:recordPosition>
+            <ns0:extraRecordData>
+                <epubFile />
+                <infoSupModifiable />
+                <link>https://gallica.bnf.fr/ark:/12148/bd6t5253264m</link>
+                <nqamoyen>0.0</nqamoyen>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bd6t5253264m.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bd6t5253264m</uri>
+            </ns0:extraRecordData>
+        </ns0:record>
+        

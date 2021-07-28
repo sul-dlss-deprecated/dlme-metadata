@@ -1,0 +1,42 @@
+<ns0:record xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns0="http://www.loc.gov/zing/srw/" xmlns:ns1="http://www.openarchives.org/OAI/2.0/oai_dc/">
+            <ns0:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</ns0:recordSchema>
+            <ns0:recordPacking>xml</ns0:recordPacking>
+            <ns0:recordData>
+                <ns1:dc>
+                    <dc:contributor>&#7716;usayn&#299;, Mu&#7717;ammad al-. Correcteur</dc:contributor>
+                    <dc:creator>Quwaydir al-&#7722;al&#299;l&#299;, &#7716;asan ibn &#703;Al&#299; (1846-1790). Auteur du texte</dc:creator>
+                    <dc:description>[Nayl al-arab f&#299; mu&#7791;alla&#7791;&#257;t al-&#703;arab. 1844]</dc:description>
+                    <dc:description>Comprend : Fann&#299;, Mu&#7717;ammad, 1789-1846 / &#1580;&#1605;&#1593;&#1607;&#1575; &#1575;&#1604;&#1584;&#1603;&#1610; &#1575;&#1604;&#1576;&#1575;&#1585;&#1593; &#1605;&#1606; &#1604;&#1575; &#1610;&#1590;&#1575;&#1585;&#1593;&#1607; &#1601;&#1610; &#1605;&#1575;&#1590;&#1610; &#1601;&#1593;&#1604;&#1607; &#1605;&#1590;&#1575;&#1585;&#1593; &#1605;&#1606; &#1576;&#1591;&#1610;&#1576; &#1587;&#1580;&#1575;&#1610;&#1575;&#1607; &#1610;&#1591;&#1610;&#1576; &#1575;&#1604;&#1606;&#1594;&#1606;&#1610; &#1581;&#1590;&#1585;&#1577; &#1575;&#1604;&#1571;&#1605;&#1579;&#1604; &#1575;&#1604;&#1601;&#1575;&#1590;&#1604; &#1605;&#1581;&#1605;&#1583; &#1571;&#1601;&#1606;&#1583;&#1610; &#1601;&#1606;&#1610; [...] - Quwaydir al-&#7722;al&#299;l&#299;, &#7716;asan ibn &#703;Al&#299;, 1846-1790 / &#1604;&#1604;&#1571;&#1587;&#1578;&#1575;&#1584; &#1575;&#1604;&#1605;&#1584;&#1603;&#1608;&#1585; &#1578;&#1587;&#1585;&#1609; &#1575;&#1604;&#1607;&#1605;&#1608;&#1605; &#1608;&#1578;&#1580;&#1604;&#1576; &#1575;&#1604;&#1587;&#1585;&#1608;&#1585;&#1605;&#1581;&#1605;&#1583; &#1601;&#1606;&#1610;</dc:description>
+                    <dc:description>Num&#233;ris&#233; par le partenaire</dc:description>
+                    <dc:description>Appartient &#224; l&#8217;ensemble documentaire : BbLevt0</dc:description>
+                    <dc:description>Num&#233;ris&#233; par le partenaire</dc:description>
+                    <dc:format>8, 2, 110, 2 pages ; 18 &#215; 27 cm</dc:format>
+                    <dc:format>Nombre total de vues : 131</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k9106151k</dc:identifier>
+                    <dc:language>ara</dc:language>
+                    <dc:language>arabe</dc:language>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb445887848</dc:relation>
+                    <dc:relation>Notice dans un autre catalogue : http://alkindi.ideo-cairo.org/manifestation/122100</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Institut dominicain d'&#233;tudes orientales, 9-107-50</dc:source>
+                    <dc:title>&#1603;&#1578;&#1575;&#1576; &#1606;&#1610;&#1604; &#1575;&#1604;&#1571;&#1585;&#1576; &#1601;&#1610; &#1605;&#1579;&#1604;&#1579;&#1575;&#1578; &#1575;&#1604;&#1593;&#1585;&#1576; / &#1604;&#1606;&#1575;&#1576;&#1594;&#1577; &#1586;&#1605;&#1575;&#1606;&#1607; &#1608;&#1587;&#1610;&#1583; &#1575;&#1604;&#1592;&#1585;&#1601;&#1575;&#1569; &#1601;&#1610; &#1570;&#1606;&#1607; &#1575;&#1604;&#1571;&#1587;&#1578;&#1575;&#1584; &#1575;&#1604;&#1588;&#1610;&#1582; &#1581;&#1587;&#1606; &#1602;&#1608;&#1610;&#1583;&#1585; &#1575;&#1604;&#1582;&#1604;&#1610;&#1604;&#1610; [...]. &#1608;&#1576;&#1607;&#1575;&#1605;&#1588;&#1607; &#1578;&#1602;&#1585;&#1610;&#1585;&#1575;&#1578; &#1604;&#1604;&#1571;&#1587;&#1578;&#1575;&#1584; &#1575;&#1604;&#1605;&#1584;&#1603;&#1608;&#1585; &#1578;&#1587;&#1585;&#1609; &#1575;&#1604;&#1607;&#1605;&#1608;&#1605; &#1608;&#1578;&#1580;&#1604;&#1576; &#1575;&#1604;&#1587;&#1585;&#1608;&#1585;</dc:title>
+                    <dc:title>Kit&#257;b Nayl al-arab f&#299; mu&#7791;alla&#7791;&#257;t al-&#703;arab / li-n&#257;bi&#289;a&#7831; zam&#257;nihi wa-sayyid al-&#7827;uraf&#257;&#702; f&#299; &#257;nihi al-ust&#257;&#7695; al-&#353;ay&#7830; &#7716;asan Quwaydir al-H&#817;al&#299;l&#299; [...]. Wa-bi-h&#257;mi&#353;ihi taqr&#299;r&#257;t li-l-ust&#257;&#7695; al-ma&#7695;k&#363;r tusarr&#299; al-hum&#363;m wa-ta&#487;lib al-sur&#363;r</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprim&#233;e</dc:type>
+                    <dc:type>monographie imprim&#233;e</dc:type>
+                </ns1:dc>
+            </ns0:recordData>
+            <ns0:recordIdentifier>ark</ns0:recordIdentifier>
+            <ns0:recordPosition>26</ns0:recordPosition>
+            <ns0:extraRecordData>
+                <epubFile />
+                <infoSupModifiable />
+                <link>https://gallica.bnf.fr/ark:/12148/bpt6k9106151k</link>
+                <nqamoyen>0.0</nqamoyen>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k9106151k.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bpt6k9106151k</uri>
+            </ns0:extraRecordData>
+        </ns0:record>
+        

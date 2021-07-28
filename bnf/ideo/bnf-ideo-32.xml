@@ -1,0 +1,41 @@
+<ns0:record xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns0="http://www.loc.gov/zing/srw/" xmlns:ns1="http://www.openarchives.org/OAI/2.0/oai_dc/">
+            <ns0:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</ns0:recordSchema>
+            <ns0:recordPacking>xml</ns0:recordPacking>
+            <ns0:recordData>
+                <ns1:dc>
+                    <dc:creator>&#352;umayyil, &#352;ibl&#299; (1850-1917). Auteur du texte</dc:creator>
+                    <dc:description>[Al-&#7717;aq&#299;qa&#7831;, wa-hiya ris&#257;la&#7831; tata&#7693;amman rud&#363;d&#257; li-i&#7791;b&#257;t ma&#7695;hab D&#257;rw&#299;n f&#299; al-nu&#353;&#363;&#702; wa-al-irtiq&#257;&#702;. 1885]</dc:description>
+                    <dc:description>Num&#233;ris&#233; par le partenaire</dc:description>
+                    <dc:description>Appartient &#224; l&#8217;ensemble documentaire : BbLevt0</dc:description>
+                    <dc:description>Num&#233;ris&#233; par le partenaire</dc:description>
+                    <dc:format>86 pages ; 16 &#215; 25 cm</dc:format>
+                    <dc:format>Nombre total de vues : 95</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k9105982k</dc:identifier>
+                    <dc:language>ara</dc:language>
+                    <dc:language>arabe</dc:language>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb44588818r</dc:relation>
+                    <dc:relation>Notice dans un autre catalogue : http://alkindi.ideo-cairo.org/manifestation/14059</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Institut dominicain d'&#233;tudes orientales, 9-531/2-10</dc:source>
+                    <dc:subject>Darwin, Charles (1809-1882)</dc:subject>
+                    <dc:title> &#1575;&#1604; &#1581;&#1602;&#1610;&#1602;&#1577; : &#1608;&#1607;&#1610; &#1585;&#1587;&#1575;&#1604;&#1577; &#1578;&#1578;&#1590;&#1605;&#1606; &#1585;&#1583;&#1608;&#1583;&#1575; &#1604;&#1573;&#1579;&#1576;&#1575;&#1578; &#1605;&#1584;&#1607;&#1576; &#1583;&#1575;&#1585;&#1608;&#1610;&#1606; &#1601;&#1610; &#1575;&#1604;&#1606;&#1588;&#1608;&#1569; &#1608;&#1575;&#1604;&#1575;&#1585;&#1578;&#1602;&#1575;&#1569; / &#1604;&#1604;&#1583;&#1603;&#1578;&#1608;&#1585; &#1588;&#1576;&#1604;&#1610; &#1588;&#1605;&#1610;&#1604;</dc:title>
+                    <dc:title>Al-&#7717;aq&#299;qa&#7831; : Wa-hiya ris&#257;la&#7831; tata&#7693;amman rud&#363;d&#257; li-i&#7791;b&#257;t ma&#7695;hab D&#257;rw&#299;n f&#299; al-nu&#353;&#363;&#702; wa-al-irtiq&#257;&#702; / Li-l-dukt&#363;r &#352;ibl&#299; &#352;umayyil</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprim&#233;e</dc:type>
+                    <dc:type>monographie imprim&#233;e</dc:type>
+                </ns1:dc>
+            </ns0:recordData>
+            <ns0:recordIdentifier>ark</ns0:recordIdentifier>
+            <ns0:recordPosition>30</ns0:recordPosition>
+            <ns0:extraRecordData>
+                <epubFile />
+                <infoSupModifiable />
+                <link>https://gallica.bnf.fr/ark:/12148/bpt6k9105982k</link>
+                <nqamoyen>0.0</nqamoyen>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k9105982k.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bpt6k9105982k</uri>
+            </ns0:extraRecordData>
+        </ns0:record>
+        

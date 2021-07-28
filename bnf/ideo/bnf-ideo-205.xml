@@ -1,0 +1,38 @@
+<ns0:record xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns0="http://www.loc.gov/zing/srw/" xmlns:ns1="http://www.openarchives.org/OAI/2.0/oai_dc/">
+            <ns0:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</ns0:recordSchema>
+            <ns0:recordPacking>xml</ns0:recordPacking>
+            <ns0:recordData>
+                <ns1:dc>
+                    <dc:contributor>Fahm&#299;, Mu&#7779;taf&#257;. 3250. Fonction ind&#233;termin&#233;e</dc:contributor>
+                    <dc:creator>&#486;&#257;h&#803;iz&#803;, &#703;Amr ibn Bah&#803;r al- (0776-0868). Auteur du texte</dc:creator>
+                    <dc:date>1912</dc:date>
+                    <dc:description>[&#1603;&#1578;&#1575;&#1576; &#1575;&#1604;&#1605;&#1581;&#1575;&#1587;&#1606; &#1608;&#1575;&#1604;&#1571;&#1590;&#1583;&#1575;&#1583;. 0858]</dc:description>
+                    <dc:description>Appartient &#224; l&#8217;ensemble documentaire : BbLevt0</dc:description>
+                    <dc:format>Nombre total de vues : 309</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bd6t5253382v</dc:identifier>
+                    <dc:language>ara</dc:language>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb44199857d</dc:relation>
+                    <dc:relation>Notice dans un autre catalogue : http://alkindi.ideo-cairo.org/manifestation/66238</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Institut dominicain d'&#233;tudes orientales, 9-514_8-5</dc:source>
+                    <dc:title>&#1603;&#1578;&#1575;&#1576; &#1575;&#1604;&#1605;&#1581;&#1575;&#1587;&#1606; &#1608;&#1575;&#1604;&#1571;&#1590;&#1583;&#1575;&#1583; / &#1578;&#1571;&#1604;&#1610;&#1601; &#1571;&#1576;&#1610; &#1593;&#1579;&#1605;&#1575;&#1606; &#1593;&#1605;&#1585;&#1608; &#1576;&#1606; &#1576;&#1581;&#1585; &#1575;&#1604;&#1580;&#1575;&#1581;&#1592; &#1575;&#1604;&#1576;&#1589;&#1585;&#1610; &#1573;&#1605;&#1575;&#1605; &#1571;&#1607;&#1604; &#1575;&#1604;&#1571;&#1583;&#1576; &#1575;&#1604;&#1605;&#1578;&#1608;&#1601;&#1609; &#1587;&#1606;&#1577; 255 &#1607;&#1600;</dc:title>
+                    <dc:title>Kit&#257;b al-ma&#7717;&#257;sin wa-l-a&#7693;d&#257;d : ta&#702;l&#299;f Ab&#299; &#703;U&#7791;m&#257;n &#703;Amr b. Ba&#7717;r al-&#486;&#257;&#7717;i&#7827; al-Ba&#7779;r&#299; im&#257;m ahl al-adab al-mutawaff&#257; sanat 255 hi&#487;riyya</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprim&#233;e</dc:type>
+                    <dc:type>printed monograph</dc:type>
+                </ns1:dc>
+            </ns0:recordData>
+            <ns0:recordIdentifier>ark</ns0:recordIdentifier>
+            <ns0:recordPosition>3</ns0:recordPosition>
+            <ns0:extraRecordData>
+                <epubFile />
+                <infoSupModifiable />
+                <link>https://gallica.bnf.fr/ark:/12148/bd6t5253382v</link>
+                <nqamoyen>0.0</nqamoyen>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bd6t5253382v.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bd6t5253382v</uri>
+            </ns0:extraRecordData>
+        </ns0:record>
+        

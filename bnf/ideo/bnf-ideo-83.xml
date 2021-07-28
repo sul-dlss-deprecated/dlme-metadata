@@ -1,0 +1,38 @@
+<ns0:record xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns0="http://www.loc.gov/zing/srw/" xmlns:ns1="http://www.openarchives.org/OAI/2.0/oai_dc/">
+            <ns0:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</ns0:recordSchema>
+            <ns0:recordPacking>xml</ns0:recordPacking>
+            <ns0:recordData>
+                <ns1:dc>
+                    <dc:creator>al-Tustar&#299;, Sahl ibn &#703;Abd All&#257;h (815-896). Auteur du texte</dc:creator>
+                    <dc:date>1911-1911</dc:date>
+                    <dc:description>[&#1578;&#1601;&#1587;&#1610;&#1585; &#1575;&#1604;&#1602;&#1585;&#1570;&#1606; &#1575;&#1604;&#1593;&#1592;&#1610;&#1605;. 0886]</dc:description>
+                    <dc:description>Appartient &#224; l&#8217;ensemble documentaire : BbLevt0</dc:description>
+                    <dc:format>Nombre total de vues : 145</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bd6t52533023</dc:identifier>
+                    <dc:language>ara</dc:language>
+                    <dc:publisher> (&#1605;&#1589;&#1585;)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb441998353</dc:relation>
+                    <dc:relation>Notice dans un autre catalogue : http://alkindi.ideo-cairo.org/manifestation/54116</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Institut dominicain d'&#233;tudes orientales, 9-316-3</dc:source>
+                    <dc:title>&#1578;&#1601;&#1587;&#1610;&#1585; &#1575;&#1604;&#1602;&#1585;&#1570;&#1606; &#1575;&#1604;&#1593;&#1592;&#1610;&#1605; / &#1604;&#1571;&#1576;&#1610; &#1605;&#1581;&#1605;&#1583; &#1587;&#1607;&#1604; &#1576;&#1606; &#1593;&#1576;&#1583; &#1575;&#1604;&#1604;&#1607; &#1575;&#1604;&#1578;&#1587;&#1578;&#1585;&#1610; &#1575;&#1604;&#1605;&#1578;&#1608;&#1602;&#1609; &#1587;&#1606;&#1577; 283 &#1607;&#1580;&#1585;&#1610;&#1577;</dc:title>
+                    <dc:title>Tafs&#299;r al-Qur&#257;n al-&#703;a&#7827;&#299;m / li-Ab&#299; Mu&#7717;ammad Sahl b. &#703;Abd All&#257;h al-Tustar&#299; al-mutawaff&#257; sanat 283 hi&#487;riyya</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprim&#233;e</dc:type>
+                    <dc:type>printed monograph</dc:type>
+                </ns1:dc>
+            </ns0:recordData>
+            <ns0:recordIdentifier>ark</ns0:recordIdentifier>
+            <ns0:recordPosition>31</ns0:recordPosition>
+            <ns0:extraRecordData>
+                <epubFile />
+                <infoSupModifiable />
+                <link>https://gallica.bnf.fr/ark:/12148/bd6t52533023</link>
+                <nqamoyen>0.0</nqamoyen>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bd6t52533023.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bd6t52533023</uri>
+            </ns0:extraRecordData>
+        </ns0:record>
+        

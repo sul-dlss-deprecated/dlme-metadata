@@ -1,0 +1,41 @@
+<ns0:record xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns0="http://www.loc.gov/zing/srw/" xmlns:ns1="http://www.openarchives.org/OAI/2.0/oai_dc/">
+            <ns0:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</ns0:recordSchema>
+            <ns0:recordPacking>xml</ns0:recordPacking>
+            <ns0:recordData>
+                <ns1:dc>
+                    <dc:contributor>&#7716;asan&#299;, &#7716;usayn. Correcteur</dc:contributor>
+                    <dc:contributor>A&#7717;mad, Ab&#363; al-&#703;Aynayn. Correcteur</dc:contributor>
+                    <dc:contributor>&#7716;asan&#299;, Mu&#7717;ammad. Correcteur</dc:contributor>
+                    <dc:creator>Ibn al-Bayt&#803;&#257;r, &#703;Abd All&#226;h ibn Ah&#803;mad al-M&#257;laq&#299; (1197-1248). Auteur du texte</dc:creator>
+                    <dc:description>[Al-&#486;&#257;mi&#703; li-mufrad&#257;t al-adwiya&#7831; wa-a&#289;&#7695;iya&#7831;. 1238]</dc:description>
+                    <dc:description>Appartient &#224; l&#8217;ensemble documentaire : BbLevt0</dc:description>
+                    <dc:format>4 volumes (742 pages (1, 179, 1; 179;1, 173, 1; 211)) ; 18 &#215; 28 cm</dc:format>
+                    <dc:format>Nombre total de vues : 373</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bd6t5253343v</dc:identifier>
+                    <dc:language>ara</dc:language>
+                    <dc:relation>Notice d'ensemble : http://catalogue.bnf.fr/ark:/12148/cb44588870v</dc:relation>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb44588870v</dc:relation>
+                    <dc:relation>Notice dans un autre catalogue : http://alkindi.ideo-cairo.org/manifestation/2371</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Institut dominicain d'&#233;tudes orientales, 9-764_6_G-57</dc:source>
+                    <dc:title> &#1575;&#1604; &#1580;&#1586;&#1569; &#1575;&#1604;&#1571;&#1608;&#1604; [&#1608;&#1575;&#1604;&#1571;&#1580;&#1586;&#1575;&#1569; &#1575;&#1604;&#1579;&#1575;&#1606;&#1610; &#1608;&#1575;&#1604;&#1578;&#1575;&#1604;&#1579; &#1608;&#1575;&#1604;&#1585;&#1575;&#1576;&#1593;] &#1605;&#1606; &#1603;&#1578;&#1575;&#1576; &#1575;&#1604;&#1580;&#1575;&#1605;&#1593; &#1604;&#1605;&#1601;&#1585;&#1583;&#1575;&#1578; &#1575;&#1604;&#1571;&#1583;&#1608;&#1610;&#1577; &#1608;&#1575;&#1604;&#1571;&#1594;&#1584;&#1610;&#1577; / &#1578;&#1571;&#1604;&#1610;&#1601; &#1575;&#1604;&#1588;&#1610;&#1582; &#1575;&#1604;&#1601;&#1575;&#1590;&#1604; &#1590;&#1610;&#1575;&#1569; &#1575;&#1604;&#1583;&#1610;&#1606; &#1571;&#1576;&#1610; &#1605;&#1581;&#1605;&#1583; &#1593;&#1576;&#1583; &#1575;&#1604;&#1604;&#1607; &#1576;&#1606; &#1571;&#1581;&#1605;&#1583; &#1575;&#1604;&#1571;&#1606;&#1583;&#1604;&#1587;&#1610; &#1575;&#1604;&#1605;&#1575;&#1604;&#1602;&#1610; &#1575;&#1604;&#1593;&#1588;&#1575;&#1576; &#1575;&#1604;&#1605;&#1593;&#1585;&#1608;&#1601; &#1576;&#1575;&#1576;&#1606; &#1575;&#1604;&#1576;&#1610;&#1591;&#1575;&#1585; (...&#1600;)</dc:title>
+                    <dc:title>al-&#486;uz&#702; al-awwal [wa-al-a&#487;z&#257;&#702; al-&#7791;&#257;n&#299; wa-al-&#7791;&#257;li&#7791; wa-al-r&#257;bi&#703;] min kit&#257;b al-&#486;&#257;mi&#703; li-mufrad&#257;t al-adwiy&#257;&#7831; wa-al-a&#289;&#7695;iy&#257;&#7831; / ta&#702;l&#299;f al-&#353;ay&#7830; al-f&#257;&#7693;il &#7692;iy&#257;&#702; al-D&#299;n Ab&#299; &#703;Abd All&#226;h ibn A&#7717;mad al-Andalus&#299; al-M&#257;laq&#299; al-&#703;A&#353;&#353;&#257;b al-ma&#703;r&#363;f bi-Ibn al-Bay&#7789;&#257;r</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprim&#233;e</dc:type>
+                    <dc:type>printed monograph</dc:type>
+                </ns1:dc>
+            </ns0:recordData>
+            <ns0:recordIdentifier>ark</ns0:recordIdentifier>
+            <ns0:recordPosition>8</ns0:recordPosition>
+            <ns0:extraRecordData>
+                <epubFile />
+                <infoSupModifiable />
+                <link>https://gallica.bnf.fr/ark:/12148/bd6t5253343v</link>
+                <nqamoyen>0.0</nqamoyen>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bd6t5253343v.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bd6t5253343v</uri>
+            </ns0:extraRecordData>
+        </ns0:record>
+        

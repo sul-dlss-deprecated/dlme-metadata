@@ -1,0 +1,41 @@
+<ns0:record xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns0="http://www.loc.gov/zing/srw/" xmlns:ns1="http://www.openarchives.org/OAI/2.0/oai_dc/">
+            <ns0:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</ns0:recordSchema>
+            <ns0:recordPacking>xml</ns0:recordPacking>
+            <ns0:recordData>
+                <ns1:dc>
+                    <dc:contributor>al-Mu&#7723;alla&#703;, &#486;ibr&#257;&#702;&#299;l ibn Y&#363;suf. Fonction ind&#233;termin&#233;e</dc:contributor>
+                    <dc:contributor>al-Mu&#7723;alla&#703;, &#486;ibr&#257;&#702;&#299;l ibn Y&#363;suf. Traducteur. Fonction ind&#233;termin&#233;e</dc:contributor>
+                    <dc:creator>Sa&#703;ad&#299; (1193-1292?). Auteur du texte</dc:creator>
+                    <dc:date>1921</dc:date>
+                    <dc:description>[Golest&#257;n. 1258]</dc:description>
+                    <dc:description>Appartient &#224; l&#8217;ensemble documentaire : BbLevt0</dc:description>
+                    <dc:format>Nombre total de vues : 233</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bd6t5253366p</dc:identifier>
+                    <dc:language>ara</dc:language>
+                    <dc:publisher>al-Kutab&#299;, Ta&#487; Ibr&#257;h&#299;m Mu&#7779;&#7789;af&#257; (&#7788;an&#7789;&#257;)</dc:publisher>
+                    <dc:publisher>&#1575;&#1604;&#1603;&#1578;&#1576;&#1610;&#1548; &#1573;&#1576;&#1585;&#1575;&#1607;&#1610;&#1605; &#1605;&#1589;&#1591;&#1601;&#1609; &#1578;&#1575;&#1580; (&#1591;&#1606;&#1591;&#1575;)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb441998620</dc:relation>
+                    <dc:relation>Notice dans un autre catalogue : http://alkindi.ideo-cairo.org/manifestation/6517</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Institut dominicain d'&#233;tudes orientales, 9-518-58</dc:source>
+                    <dc:title>&#1603;&#1578;&#1575;&#1576; &#1578;&#1585;&#1580;&#1605;&#1577; &#1575;&#1604;&#1580;&#1604;&#1587;&#1578;&#1575;&#1606; &#1575;&#1604;&#1601;&#1575;&#1585;&#1587;&#1610; &#1575;&#1604;&#1593;&#1576;&#1575;&#1585;&#1577; &#1575;&#1604;&#1605;&#1588;&#1610;&#1585; &#1573;&#1604;&#1609; &#1605;&#1581;&#1575;&#1587;&#1606; &#1575;&#1604;&#1570;&#1583;&#1575;&#1576; &#1576;&#1571;&#1604;&#1591;&#1601; &#1573;&#1588;&#1575;&#1585;&#1577; / &#1578;&#1593;&#1585;&#1610;&#1576; &#1575;&#1604;&#1571;&#1585;&#1610;&#1576; &#1575;&#1604;&#1571;&#1604;&#1605;&#1593;&#1610; &#1608;&#1575;&#1604;&#1571;&#1583;&#1610;&#1576; &#1575;&#1604;&#1604;&#1608;&#1584;&#1593;&#1610; &#1575;&#1604;&#1582;&#1608;&#1575;&#1580;&#1575; &#1580;&#1576;&#1585;&#1575;&#1574;&#1610;&#1604; &#1576;&#1606; &#1610;&#1608;&#1587;&#1601; &#1575;&#1604;&#1588;&#1607;&#1610;&#1585; &#1576;&#1575;&#1604;&#1605;&#1582;&#1604;&#1593;</dc:title>
+                    <dc:title>Kit&#257;b tar&#487;amat al-&#486;ulist&#257;n al-f&#257;ris&#299; al-&#703;ib&#257;ra al-mu&#353;&#299;r il&#257; ma&#7717;&#257;sin al-&#257;d&#257;b bi-al&#7789;af i&#353;&#257;ra / Ta&#703;r&#299;b al-ar&#299;b al-alma&#703;&#299; wa-l-ad&#299;b al-law&#7695;a&#703;&#299; al-&#7723;aw&#257;&#487;&#257; &#486;ibr&#257;&#702;&#299;l b. Y&#363;suf al-&#353;ah&#299;r bi-l-Mu&#7723;alla&#703;</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprim&#233;e</dc:type>
+                    <dc:type>printed monograph</dc:type>
+                </ns1:dc>
+            </ns0:recordData>
+            <ns0:recordIdentifier>ark</ns0:recordIdentifier>
+            <ns0:recordPosition>13</ns0:recordPosition>
+            <ns0:extraRecordData>
+                <epubFile />
+                <infoSupModifiable />
+                <link>https://gallica.bnf.fr/ark:/12148/bd6t5253366p</link>
+                <nqamoyen>0.0</nqamoyen>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bd6t5253366p.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bd6t5253366p</uri>
+            </ns0:extraRecordData>
+        </ns0:record>
+        

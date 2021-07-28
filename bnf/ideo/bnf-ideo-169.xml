@@ -1,0 +1,40 @@
+<ns0:record xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns0="http://www.loc.gov/zing/srw/" xmlns:ns1="http://www.openarchives.org/OAI/2.0/oai_dc/">
+            <ns0:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</ns0:recordSchema>
+            <ns0:recordPacking>xml</ns0:recordPacking>
+            <ns0:recordData>
+                <ns1:dc>
+                    <dc:contributor>al-Kurd&#299;, Mu&#7717;y&#299; al-D&#299;n &#7778;abr&#299;. 3250. Fonction ind&#233;termin&#233;e</dc:contributor>
+                    <dc:contributor>Ma&#703;r&#363;f, &#703;Abd al-Q&#257;dir. 3250. Fonction ind&#233;termin&#233;e</dc:contributor>
+                    <dc:contributor>al-Kurd&#299;, &#7716;usayn Nu&#703;aym&#299;. 3250. Fonction ind&#233;termin&#233;e</dc:contributor>
+                    <dc:creator>&#288;az&#257;l&#299;, Muh&#803;ammad ibn Muh&#803;ammad Ab&#363; H&#803;&#257;mid al- (1058-1111). Auteur du texte</dc:creator>
+                    <dc:date>1911</dc:date>
+                    <dc:description>[&#1605;&#1593;&#1610;&#1575;&#1585; &#1575;&#1604;&#1593;&#1604;&#1605; &#1601;&#1610; &#1601;&#1606; &#1575;&#1604;&#1605;&#1606;&#1591;&#1602;. 1101]</dc:description>
+                    <dc:description>Appartient &#224; l&#8217;ensemble documentaire : BbLevt0</dc:description>
+                    <dc:format>Nombre total de vues : 209</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bd6t5253386c</dc:identifier>
+                    <dc:language>ara</dc:language>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb441998849</dc:relation>
+                    <dc:relation>Notice dans un autre catalogue : http://alkindi.ideo-cairo.org/manifestation/11430</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Institut dominicain d'&#233;tudes orientales, 9-729_1_B-41A</dc:source>
+                    <dc:title>&#1605;&#1593;&#1610;&#1575;&#1585; &#1575;&#1604;&#1593;&#1604;&#1605; &#1601;&#1610; &#1601;&#1606; &#1575;&#1604;&#1605;&#1606;&#1591;&#1602; : &#1605;&#1581;&#1585;&#1585; &#1608;&#1605;&#1589;&#1581;&#1581; &#1576;&#1594;&#1575;&#1610;&#1577; &#1575;&#1604;&#1583;&#1602;&#1577; &#1608;&#1575;&#1604;&#1575;&#1593;&#1578;&#1606;&#1575;&#1569; &#1608;&#1605;&#1591;&#1585;&#1586; &#1576;&#1578;&#1593;&#1604;&#1610;&#1602;&#1575;&#1578; &#1575;&#1604;&#1601;&#1590;&#1604;&#1575;&#1569; &#1608;&#1605;&#1589;&#1583;&#1585; &#1576;&#1578;&#1585;&#1580;&#1605;&#1577; &#1575;&#1604;&#1605;&#1589;&#1606;&#1601; &#1578;&#1585;&#1580;&#1605;&#1577; &#1605;&#1587;&#1607;&#1576;&#1577; / &#1604;&#1581;&#1580;&#1577; &#1575;&#1604;&#1573;&#1587;&#1604;&#1575;&#1605; &#1605;&#1581;&#1605;&#1583; &#1575;&#1604;&#1594;&#1586;&#1575;&#1604;&#1610; ; &#1604;&#1581;&#1580;&#1577; &#1575;&#1604;&#1573;&#1587;&#1604;&#1575;&#1605; &#1605;&#1581;&#1605;&#1583; &#1575;&#1604;&#1594;&#1586;&#1575;&#1604;&#1610;</dc:title>
+                    <dc:title>Mi&#703;y&#257;r al-&#703;ilm f&#299; fann al-man&#7789;iq : mu&#7717;arrar wa-mu&#7779;a&#7717;&#7717;a&#7717; bi-&#289;&#257;yat al-diqqa wa-l-i&#703;tin&#257;&#702; wa-mu&#7789;arraz bi-ta&#703;l&#299;q&#257;t al-fu&#7693;al&#257;&#702; wa-mu&#7779;addar bi-tar&#487;amat al-mu&#7779;annif tar&#487;amatan mushibatan / li-&#7717;u&#487;&#487;at al-isl&#257;m Mu&#7717;ammad al-&#288;az&#257;l&#299; ; li-&#7717;u&#487;&#487;at al-isl&#257;m Mu&#7717;ammad al-&#288;az&#257;l&#299;</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprim&#233;e</dc:type>
+                    <dc:type>printed monograph</dc:type>
+                </ns1:dc>
+            </ns0:recordData>
+            <ns0:recordIdentifier>ark</ns0:recordIdentifier>
+            <ns0:recordPosition>17</ns0:recordPosition>
+            <ns0:extraRecordData>
+                <epubFile />
+                <infoSupModifiable />
+                <link>https://gallica.bnf.fr/ark:/12148/bd6t5253386c</link>
+                <nqamoyen>0.0</nqamoyen>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bd6t5253386c.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bd6t5253386c</uri>
+            </ns0:extraRecordData>
+        </ns0:record>
+        

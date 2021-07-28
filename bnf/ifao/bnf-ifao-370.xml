@@ -1,0 +1,40 @@
+<ns0:record xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns0="http://www.loc.gov/zing/srw/" xmlns:ns1="http://www.openarchives.org/OAI/2.0/oai_dc/">
+            <ns0:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</ns0:recordSchema>
+            <ns0:recordPacking>xml</ns0:recordPacking>
+            <ns0:recordData>
+                <ns1:dc>
+                    <dc:creator>Robichon, Cl&#233;ment (1906-1999). Auteur du texte</dc:creator>
+                    <dc:creator>Varille, Alexandre (1909-1951). Auteur du texte</dc:creator>
+                    <dc:date>1940</dc:date>
+                    <dc:description>Collection : Recherches d'arch&#233;ologie, de philologie et d'histoire ; 11</dc:description>
+                    <dc:description>Collection : Recherches d'arch&#233;ologie, de philologie et d'histoire ; 11</dc:description>
+                    <dc:description>Num&#233;ris&#233; par le partenaire</dc:description>
+                    <dc:description>Avec mode texte</dc:description>
+                    <dc:format>X-22 p. : fig., pl. en coul., plans ; in-8</dc:format>
+                    <dc:format>Nombre total de vues : 57</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k91092899</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:publisher>impr. de l'Institut fran&#231;ais d'arch&#233;ologie orientale (Le Caire)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb31544212q</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Institut fran&#231;ais d'arch&#233;ologie orientale</dc:source>
+                    <dc:title>Description sommaire du temple primitif de M&#233;damoud / par C. Robichon et A. Varille</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprim&#233;e</dc:type>
+                    <dc:type>printed monograph</dc:type>
+                </ns1:dc>
+            </ns0:recordData>
+            <ns0:recordIdentifier>ark</ns0:recordIdentifier>
+            <ns0:recordPosition>18</ns0:recordPosition>
+            <ns0:extraRecordData>
+                <epubFile />
+                <infoSupModifiable />
+                <link>https://gallica.bnf.fr/ark:/12148/bpt6k91092899</link>
+                <nqamoyen>86.57</nqamoyen>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k91092899.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bpt6k91092899</uri>
+            </ns0:extraRecordData>
+        </ns0:record>
+        
