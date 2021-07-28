@@ -1,0 +1,39 @@
+<ns0:record xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns0="http://www.loc.gov/zing/srw/" xmlns:ns1="http://www.openarchives.org/OAI/2.0/oai_dc/">
+            <ns0:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</ns0:recordSchema>
+            <ns0:recordPacking>xml</ns0:recordPacking>
+            <ns0:recordData>
+                <ns1:dc>
+                    <dc:creator>&#352;a&#703;r&#257;n&#299;, &#703;Abd al-Wahh&#257;b ibn A&#7717;mad ibn &#703;Al&#299; al-Ans&#803;&#257;r&#299; al- (1493-1565). Auteur du texte</dc:creator>
+                    <dc:date>1910</dc:date>
+                    <dc:description>[&#1605;&#1582;&#1578;&#1589;&#1585; &#1578;&#1584;&#1603;&#1585;&#1577; &#1575;&#1604;&#1602;&#1585;&#1591;&#1576;&#1610;. 1555]</dc:description>
+                    <dc:description>Appartient &#224; l&#8217;ensemble documentaire : BbLevt0</dc:description>
+                    <dc:format>Nombre total de vues : 297</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bd6t5253377d</dc:identifier>
+                    <dc:language>ara</dc:language>
+                    <dc:publisher>&#1575;&#1604;&#1605;&#1603;&#1578;&#1576;&#1577; &#1575;&#1604;&#1605;&#1604;&#1603;&#1610;&#1577; (&#1575;&#1604;&#1602;&#1575;&#1607;&#1585;&#1577;)</dc:publisher>
+                    <dc:publisher>al-Maktab&#257; al-malakiy&#257; (al-Q&#257;hira)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb44199812f</dc:relation>
+                    <dc:relation>Notice dans un autre catalogue : http://alkindi.ideo-cairo.org/manifestation/1999</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Institut dominicain d'&#233;tudes orientales, 9-200-28</dc:source>
+                    <dc:title>&#1603;&#1578;&#1575;&#1576; &#1575;&#1604;&#1578;&#1584;&#1603;&#1585;&#1577; &#1576;&#1571;&#1581;&#1608;&#1575;&#1604; &#1575;&#1604;&#1605;&#1608;&#1578;&#1609; &#1608;&#1571;&#1605;&#1608;&#1585; &#1575;&#1604;&#1570;&#1582;&#1585;&#1577; : &#1608;&#1607;&#1610; &#1605;&#1582;&#1578;&#1589;&#1585; &#1578;&#1584;&#1603;&#1585;&#1577; &#1575;&#1604;&#1573;&#1605;&#1575;&#1605; &#1571;&#1576;&#1610; &#1593;&#1576;&#1583; &#1575;&#1604;&#1604;&#1607; &#1575;&#1604;&#1602;&#1585;&#1591;&#1576;&#1610; &#1604;&#1604;&#1602;&#1591;&#1576; &#1575;&#1604;&#1585;&#1576;&#1575;&#1606;&#1610; &#1593;&#1576;&#1583; &#1575;&#1604;&#1608;&#1607;&#1575;&#1576; &#1575;&#1604;&#1588;&#1593;&#1585;&#1575;&#1606;&#1610; / &#1575;&#1604;&#1573;&#1605;&#1575;&#1605; &#1571;&#1576;&#1610; &#1593;&#1576;&#1583; &#1575;&#1604;&#1604;&#1607; &#1575;&#1604;&#1602;&#1585;&#1591;&#1576;&#1610;</dc:title>
+                    <dc:title>Kit&#257;b al-ta&#7695;kira bi-a&#7717;w&#257;l al-mawt&#257; wa-um&#363;r al-&#257;&#7723;ira : wa-hiya mu&#7723;ta&#7779;ar ta&#7695;kirat al-im&#257;m Ab&#299; &#703;Abd All&#257;h al-Qur&#7789;ub&#299; li-l-qu&#7789;b al-rabb&#257;n&#299; &#703;Abd al-Wahh&#257;b al-&#352;a&#703;r&#257;n&#299; / al-im&#257;m Ab&#299; &#703;Abd All&#257;h al-Qur&#7789;ub&#299;</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprim&#233;e</dc:type>
+                    <dc:type>printed monograph</dc:type>
+                </ns1:dc>
+            </ns0:recordData>
+            <ns0:recordIdentifier>ark</ns0:recordIdentifier>
+            <ns0:recordPosition>11</ns0:recordPosition>
+            <ns0:extraRecordData>
+                <epubFile />
+                <infoSupModifiable />
+                <link>https://gallica.bnf.fr/ark:/12148/bd6t5253377d</link>
+                <nqamoyen>0.0</nqamoyen>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bd6t5253377d.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bd6t5253377d</uri>
+            </ns0:extraRecordData>
+        </ns0:record>
+        

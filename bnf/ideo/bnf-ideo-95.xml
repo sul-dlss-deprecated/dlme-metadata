@@ -1,0 +1,38 @@
+<ns0:record xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns0="http://www.loc.gov/zing/srw/" xmlns:ns1="http://www.openarchives.org/OAI/2.0/oai_dc/">
+            <ns0:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</ns0:recordSchema>
+            <ns0:recordPacking>xml</ns0:recordPacking>
+            <ns0:recordData>
+                <ns1:dc>
+                    <dc:creator>Ibn H&#803;ajar al Hayt&#818;am&#299;, Ah&#803;mad ibn Moh&#803;ammad. Auteur du texte</dc:creator>
+                    <dc:description>[Al-&#7779;aw&#257;&#703;iq al-mu&#7717;riqa&#7831; f&#299; al-radd &#703;al&#225; ahl al-bida&#703; wa-al-zandaqa&#7831;. 1556]</dc:description>
+                    <dc:description>Comprend : Ibn &#7716;a&#487;ar al-Hay&#7791;ami, A&#7717;mad ibn Mu&#7717;ammad, 1503-1566 / &#1604;&#1587;&#1610;&#1583;&#1606;&#1575; &#1575;&#1604;&#1573;&#1605;&#1575;&#1605; &#1571;&#1581;&#1605;&#1583; &#1576;&#1606; &#1581;&#1580;&#1585; &#1575;&#1604;&#1607;&#1610;&#1578;&#1605;&#1610;</dc:description>
+                    <dc:description>Appartient &#224; l&#8217;ensemble documentaire : BbLevt0</dc:description>
+                    <dc:format>164 pages ; 20 &#215; 28 cm</dc:format>
+                    <dc:format>Nombre total de vues : 173</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bd6t52532938</dc:identifier>
+                    <dc:language>ara</dc:language>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb44588788n</dc:relation>
+                    <dc:relation>Notice dans un autre catalogue : http://alkindi.ideo-cairo.org/manifestation/3499</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Institut dominicain d'&#233;tudes orientales, 9-240-13A</dc:source>
+                    <dc:title>&#1603;&#1578;&#1575;&#1576; &#1575;&#1604;&#1589;&#1608;&#1575;&#1593;&#1602; &#1575;&#1604;&#1605;&#1581;&#1585;&#1602;&#1577; &#1601;&#1610; &#1575;&#1604;&#1585;&#1583; &#1593;&#1604;&#1609; &#1571;&#1607;&#1604; &#1575;&#1604;&#1576;&#1583;&#1593; &#1608;&#1575;&#1604;&#1586;&#1606;&#1583;&#1602;&#1577; / &#1578;&#1571;&#1604;&#1610;&#1601; &#1575;&#1604;&#1573;&#1605;&#1575;&#1605; &#1575;&#1604;&#1593;&#1575;&#1604;&#1605; &#1575;&#1604;&#1593;&#1604;&#1575;&#1605;&#1577; &#1575;&#1604;&#1601;&#1602;&#1610;&#1607; &#1575;&#1604;&#1605;&#1581;&#1583;&#1579; &#1588;&#1607;&#1575;&#1576; &#1575;&#1604;&#1583;&#1610;&#1606; &#1571;&#1581;&#1605;&#1583; &#1576;&#1606; &#1581;&#1580;&#1585; &#1575;&#1604;&#1607;&#1610;&#1578;&#1605;&#1610; &#1606;&#1586;&#1610;&#1604; &#1605;&#1603;&#1577; &#1575;&#1604;&#1605;&#1588;&#1585;&#1601;&#1577; (...) ; &#1608;&#1576;&#1607;&#1575;&#1605;&#1588;&#1607; &#1603;&#1578;&#1575;&#1576; &#1578;&#1591;&#1607;&#1610;&#1585; &#1575;&#1604;&#1580;&#1606;&#1575;&#1606; &#1608;&#1575;&#1604;&#1604;&#1587;&#1575;&#1606; &#1593;&#1606; &#1575;&#1604;&#1582;&#1591;&#1608;&#1585; &#1608;&#1575;&#1604;&#1578;&#1601;&#1608;&#1607; &#1576;&#1579;&#1604;&#1576; &#1587;&#1610;&#1583;&#1606;&#1575; &#1605;&#1593;&#1575;&#1608;&#1610;&#1577; &#1576;&#1606; &#1571;&#1576;&#1610; &#1587;&#1601;&#1610;&#1575;&#1606; &#1604;&#1587;&#1610;&#1583;&#1606;&#1575; &#1575;&#1604;&#1573;&#1605;&#1575;&#1605; &#1571;&#1581;&#1605;&#1583; &#1576;&#1606; &#1581;&#1580;&#1585; &#1575;&#1604;&#1607;&#1610;&#1578;&#1605;&#1610; (...)</dc:title>
+                    <dc:title>Kit&#257;b al-&#7778;aw&#257;&#703;iq al-mu&#7717;riqa&#7831; f&#299; al-radd &#703;al&#225; ahl al-bida&#703; wa-al-zandaqa&#7831; / Ta&#702;l&#299;f al-Im&#257;m al-&#703;&#257;lim al-&#703;all&#257;ma&#7831; al-faq&#299;h al-mu&#7717;addi&#7791; &#352;ih&#257;b al-D&#299;n A&#7717;mad ibn &#7716;a&#487;ar al-Hay&#7791;am&#299; naz&#299;l Makka&#7831; al-Mu&#353;arrafa&#7831; ; wa bi-h&#257;mi&#353;ihi Kit&#257;b Ta&#7789;h&#299;r al-&#487;un&#257;n wa-al-lis&#257;n &#703;an al-&#7830;u&#7789;&#363;r wa-al-tafawwuh bi-&#7791;alab sayyidin&#257; Mu&#703;&#257;wiya&#7831; ibn Ab&#299; Sufy&#257;n li-sayyidin&#257; al-Im&#257;m A&#7717;mad ibn &#7716;a&#487;ar al-Hay&#7791;am&#299;</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprim&#233;e</dc:type>
+                    <dc:type>printed monograph</dc:type>
+                </ns1:dc>
+            </ns0:recordData>
+            <ns0:recordIdentifier>ark</ns0:recordIdentifier>
+            <ns0:recordPosition>43</ns0:recordPosition>
+            <ns0:extraRecordData>
+                <epubFile />
+                <infoSupModifiable />
+                <link>https://gallica.bnf.fr/ark:/12148/bd6t52532938</link>
+                <nqamoyen>0.0</nqamoyen>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bd6t52532938.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bd6t52532938</uri>
+            </ns0:extraRecordData>
+        </ns0:record>
+        

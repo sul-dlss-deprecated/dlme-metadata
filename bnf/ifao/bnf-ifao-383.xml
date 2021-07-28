@@ -1,0 +1,49 @@
+<ns0:record xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns0="http://www.loc.gov/zing/srw/" xmlns:ns1="http://www.openarchives.org/OAI/2.0/oai_dc/">
+            <ns0:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</ns0:recordSchema>
+            <ns0:recordPacking>xml</ns0:recordPacking>
+            <ns0:recordData>
+                <ns1:dc>
+                    <dc:contributor>Leemans, Conradus (1809-1893). &#201;diteur scientifique</dc:contributor>
+                    <dc:creator>Horapollon. Auteur du texte</dc:creator>
+                    <dc:date>1835</dc:date>
+                    <dc:description>Num&#233;ris&#233; par le partenaire</dc:description>
+                    <dc:description>Appartient &#224; l&#8217;ensemble documentaire : BbLevt0</dc:description>
+                    <dc:description>Avec mode texte</dc:description>
+                    <dc:description>Num&#233;ris&#233; par le partenaire</dc:description>
+                    <dc:format>1 vol. (XXXVI-446 p.-[3] f. de pl.) : ill. ; 22 cm</dc:format>
+                    <dc:format>Nombre total de vues : 515</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k9109273f</dc:identifier>
+                    <dc:language>lat</dc:language>
+                    <dc:language>latin</dc:language>
+                    <dc:publisher> (Amstelodami)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb44588945x</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Institut fran&#231;ais d'arch&#233;ologie orientale</dc:source>
+                    <dc:subject>&#201;gyptien ancien (langue) -- &#201;criture hi&#233;roglyphique</dc:subject>
+                    <dc:subject>Signes et symboles -- &#201;gypte -- Antiquit&#233;</dc:subject>
+                    <dc:subject>&#201;gypte -- Jusqu'&#224; 332 av. J.-C.</dc:subject>
+                    <dc:subject>Egyptian language -- Writing, Hieroglyphic</dc:subject>
+                    <dc:title>&#332;rapoll&#333;nos Neil&#333;ou Hieroglyphika / edidit, diversorum codicum recenter collatorum, priorumque editionum varias lectiones et versionem latinam subjunxit, adnotationem, item hieroglyphicorum imagines et indices adjecit, Conradus Leemans</dc:title>
+                    <dc:title>&#937;&#961;&#945;&#960;&#959;&#955;&#955;&#969;&#957;&#959;&#962; &#925;&#949;&#953;&#955;&#969;&#959;&#965; &#921;&#949;&#961;&#959;&#947;&#955;&#965;&#966;&#953;&#954;&#945;</dc:title>
+                    <dc:title>Horapollinis Niloi Hieroglyphica</dc:title>
+                    <dc:title>&#937;&#961;&#945;&#960;&#959;&#955;&#955;&#969;&#957;&#959;&#962; &#925;&#949;&#953;&#955;&#969;&#959;&#965; &#921;&#949;&#961;&#959;&#947;&#955;&#965;&#966;&#953;&#954;&#945;</dc:title>
+                    <dc:title>&#332;rapoll&#333;nos Neil&#333;ou Hieroglyphika</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprim&#233;e</dc:type>
+                    <dc:type>monographie imprim&#233;e</dc:type>
+                </ns1:dc>
+            </ns0:recordData>
+            <ns0:recordIdentifier>ark</ns0:recordIdentifier>
+            <ns0:recordPosition>31</ns0:recordPosition>
+            <ns0:extraRecordData>
+                <epubFile />
+                <infoSupModifiable />
+                <link>https://gallica.bnf.fr/ark:/12148/bpt6k9109273f</link>
+                <nqamoyen>70.87</nqamoyen>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k9109273f.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bpt6k9109273f</uri>
+            </ns0:extraRecordData>
+        </ns0:record>
+        

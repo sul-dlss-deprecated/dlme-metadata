@@ -1,0 +1,42 @@
+<ns0:record xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns0="http://www.loc.gov/zing/srw/" xmlns:ns1="http://www.openarchives.org/OAI/2.0/oai_dc/">
+            <ns0:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</ns0:recordSchema>
+            <ns0:recordPacking>xml</ns0:recordPacking>
+            <ns0:recordData>
+                <ns1:dc>
+                    <dc:creator>B&#363;l&#257;q&#299;, &#703;Al&#299; ibn &#7716;usayn (-apr&#232;s 1890). Auteur du texte</dc:creator>
+                    <dc:description>[Tiby&#257;n al-bay&#257;n &#703;al&#225; &#7717;a&#353;iya&#7831; al-&#7778;&#257;w&#299; li-&#353;ar&#7717; Tu&#7717;fat al-i&#7830;w&#257;n. 1887]</dc:description>
+                    <dc:description>Comprend : al-&#7778;&#257;w&#299;, A&#7717;mad ibn Mu&#7717;ammad, 1761-1825 / &#1575;&#1604;&#1589;&#1575;&#1608;&#1610;</dc:description>
+                    <dc:description>Num&#233;ris&#233; par le partenaire</dc:description>
+                    <dc:description>Appartient &#224; l&#8217;ensemble documentaire : BbLevt0</dc:description>
+                    <dc:description>Num&#233;ris&#233; par le partenaire</dc:description>
+                    <dc:format>152 pages ; 17 &#215; 25 cm</dc:format>
+                    <dc:format>Nombre total de vues : 169</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k91061342</dc:identifier>
+                    <dc:language>ara</dc:language>
+                    <dc:language>arabe</dc:language>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb445888449</dc:relation>
+                    <dc:relation>Notice dans un autre catalogue : http://alkindi.ideo-cairo.org/manifestation/6334</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Institut dominicain d'&#233;tudes orientales, 9-752/49-20</dc:source>
+                    <dc:subject>&#7778;&#257;w&#299;, A&#7717;mad ibn Mu&#7717;ammad al- (1761-1825)</dc:subject>
+                    <dc:title>&#1578;&#1576;&#1610;&#1575;&#1606; &#1575;&#1604;&#1576;&#1610;&#1575;&#1606; &#1593;&#1604;&#1609; &#1581;&#1575;&#1588;&#1610;&#1577; &#1575;&#1604;&#1593;&#1604;&#1575;&#1605;&#1577; &#1575;&#1604;&#1589;&#1575;&#1608;&#1610; &#1604;&#1588;&#1585;&#1581; &#1578;&#1581;&#1601;&#1577; &#1575;&#1604;&#1573;&#1582;&#1608;&#1575;&#1606; &#1604;&#1604;&#1608;&#1584;&#1593;&#1610; &#1575;&#1604;&#1571;&#1583;&#1610;&#1576; &#1608;&#1575;&#1604;&#1571;&#1604;&#1605;&#1593;&#1610; &#1575;&#1604;&#1571;&#1585;&#1610;&#1576; &#1575;&#1604;&#1593;&#1575;&#1604;&#1605; &#1575;&#1604;&#1606;&#1581;&#1585;&#1610;&#1585; &#1608;&#1593;&#1604;&#1605; &#1575;&#1604;&#1601;&#1590;&#1604; &#1575;&#1604;&#1588;&#1607;&#1610;&#1585; &#1575;&#1604;&#1605;&#1604;&#1581;&#1608;&#1592; &#1576;&#1593;&#1606;&#1575;&#1610;&#1577; &#1575;&#1604;&#1603;&#1585;&#1610;&#1605; &#1575;&#1604;&#1576;&#1575;&#1602;&#1610; &#1575;&#1604;&#1571;&#1587;&#1578;&#1575;&#1584; &#1575;&#1604;&#1588;&#1610;&#1582; &#1593;&#1604;&#1610; &#1576;&#1606; &#1581;&#1587;&#1610;&#1606; &#1575;&#1604;&#1605;&#1587;&#1585;&#1593;&#1610; &#1575;&#1604;&#1605;&#1593;&#1585;&#1608;&#1601; &#1576;&#1575;&#1604;&#1576;&#1608;&#1604;&#1575;&#1602;&#1610; (...)</dc:title>
+                    <dc:title>Tiby&#257;n al-bay&#257;n &#703;al&#225; &#7717;a&#353;iya&#7831; al-&#703;allama&#7831; al-&#7778;&#257;w&#299; li-&#353;ar&#7717; Tu&#7717;fa&#7831; al-i&#7830;w&#257;n li-l-law&#7695;a&#703;&#299; al-ad&#299;b wa-al-alma&#703;&#299; al-ar&#299;b al-&#703;&#257;lim al-na&#7717;r&#299;r wa-&#703;alam al-fa&#7693;l al-&#353;ah&#299;r al-mal&#7717;&#363;&#7827; bi-&#703;in&#257;ya&#7831; al-kar&#299;m al-b&#257;q&#299; al-ust&#257;&#7695; al-&#353;ay&#7830; &#703;Al&#299; ibn &#7716;usayn al-Masra&#703;&#299; al-ma&#703;r&#363;f bi-al-B&#363;l&#257;q&#299; (...)</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprim&#233;e</dc:type>
+                    <dc:type>monographie imprim&#233;e</dc:type>
+                </ns1:dc>
+            </ns0:recordData>
+            <ns0:recordIdentifier>ark</ns0:recordIdentifier>
+            <ns0:recordPosition>19</ns0:recordPosition>
+            <ns0:extraRecordData>
+                <epubFile />
+                <infoSupModifiable />
+                <link>https://gallica.bnf.fr/ark:/12148/bpt6k91061342</link>
+                <nqamoyen>0.0</nqamoyen>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k91061342.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bpt6k91061342</uri>
+            </ns0:extraRecordData>
+        </ns0:record>
+        

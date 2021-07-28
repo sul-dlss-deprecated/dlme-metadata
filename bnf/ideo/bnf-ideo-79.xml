@@ -1,0 +1,53 @@
+<ns0:record xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns0="http://www.loc.gov/zing/srw/" xmlns:ns1="http://www.openarchives.org/OAI/2.0/oai_dc/">
+            <ns0:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</ns0:recordSchema>
+            <ns0:recordPacking>xml</ns0:recordPacking>
+            <ns0:recordData>
+                <ns1:dc>
+                    <dc:contributor>&#703;Af&#299;f&#299;, &#7716;&#257;fi&#7827; (1887-1961). Auteur du commentaire</dc:contributor>
+                    <dc:contributor>Ab&#363; &#352;&#257;d&#299;, Ah&#803;mad Zak&#299; (1892-1955). Auteur du commentaire</dc:contributor>
+                    <dc:contributor>&#703;A&#353;m&#257;w&#299;, Mu&#7717;ammad. Auteur du commentaire</dc:contributor>
+                    <dc:contributor>Ab&#363; &#703;Alam, Mu&#7717;ammad &#7778;abr&#299; (1893-1947). Auteur du commentaire</dc:contributor>
+                    <dc:contributor>Na&#7827;m&#299;, &#703;Abd al-&#703;Az&#299;z ibn &#703;Abd al-Razz&#257;q. Auteur du commentaire</dc:contributor>
+                    <dc:contributor>Mu&#7779;&#7789;af&#225;, Mu&#7717;ammad al-&#7716;usayn&#299;. Auteur du commentaire</dc:contributor>
+                    <dc:contributor>S&#257;m&#299;, Ibr&#257;h&#299;m. Auteur du commentaire</dc:contributor>
+                    <dc:contributor>&#703;&#298;s&#225;, Mu&#7717;ammad &#7716;ilm&#299; (-1953). Auteur du commentaire</dc:contributor>
+                    <dc:contributor>&#703;A&#487;&#487;&#257;t&#299;, &#703;Abd al-&#7716;am&#299;d al-. Auteur du commentaire</dc:contributor>
+                    <dc:contributor>B&#257;&#353;&#257;, Muh&#803;ammad Mah&#803;m&#363;d (1877-1941). Auteur du commentaire</dc:contributor>
+                    <dc:contributor>Q&#257;sim, Mu&#7717;ammad. Auteur du commentaire</dc:contributor>
+                    <dc:contributor>Ma&#7717;f&#363;&#7827;, Ra&#353;w&#257;n (1886-1935 ; Pasha). Auteur du commentaire</dc:contributor>
+                    <dc:contributor>&#352;&#257;kir, Mu&#7717;ammad K&#257;mil. Auteur du commentaire</dc:contributor>
+                    <dc:contributor>An&#299;s, Hasan. Auteur du commentaire</dc:contributor>
+                    <dc:contributor>&#703;Awa&#7693;, A&#7717;mad &#7716;&#257;fi&#7827; (1874-1950). Auteur du commentaire</dc:contributor>
+                    <dc:contributor>Bund&#257;r&#299;, Mu&#7717;ammad K&#257;mil al-. Auteur du commentaire</dc:contributor>
+                    <dc:creator>R&#257;bi&#7789;a&#7831; &#7723;ar&#299;&#487;&#299; al-tawf&#299;qiyya&#7831; (Shubra, Le Caire). Auteur du texte</dc:creator>
+                    <dc:description>[R&#257;bi&#7789;a&#7831; &#7723;ar&#299;&#487;&#299; al-tawf&#299;qiyya&#7831;. 1935]</dc:description>
+                    <dc:description>Appartient &#224; l&#8217;ensemble documentaire : BbLevt0</dc:description>
+                    <dc:format>134 pages ; 17 &#215; 24 cm</dc:format>
+                    <dc:format>Nombre total de vues : 147</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bd6t5253316z</dc:identifier>
+                    <dc:language>ara</dc:language>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb44588890g</dc:relation>
+                    <dc:relation>Notice dans un autre catalogue : http://alkindi.ideo-cairo.org/manifestation/36378</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Institut dominicain d'&#233;tudes orientales, 12-9-96</dc:source>
+                    <dc:title>&#1585;&#1575;&#1576;&#1591;&#1577; &#1582;&#1585;&#1610;&#1580;&#1610; &#1575;&#1604;&#1578;&#1608;&#1601;&#1610;&#1602;&#1610;&#1577;</dc:title>
+                    <dc:title>R&#257;bi&#7789;a&#7831; &#7830;ar&#299;&#487;&#299; al-tawf&#299;qiyya&#7831;</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprim&#233;e</dc:type>
+                    <dc:type>printed monograph</dc:type>
+                </ns1:dc>
+            </ns0:recordData>
+            <ns0:recordIdentifier>ark</ns0:recordIdentifier>
+            <ns0:recordPosition>27</ns0:recordPosition>
+            <ns0:extraRecordData>
+                <epubFile />
+                <infoSupModifiable />
+                <link>https://gallica.bnf.fr/ark:/12148/bd6t5253316z</link>
+                <nqamoyen>0.0</nqamoyen>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bd6t5253316z.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bd6t5253316z</uri>
+            </ns0:extraRecordData>
+        </ns0:record>
+        

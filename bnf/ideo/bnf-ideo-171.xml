@@ -1,0 +1,40 @@
+<ns0:record xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns0="http://www.loc.gov/zing/srw/" xmlns:ns1="http://www.openarchives.org/OAI/2.0/oai_dc/">
+            <ns0:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</ns0:recordSchema>
+            <ns0:recordPacking>xml</ns0:recordPacking>
+            <ns0:recordData>
+                <ns1:dc>
+                    <dc:contributor>al-&#7788;&#299;b&#257;w&#299;, &#703;Abd al-La&#7789;&#299;f (1910-1981). Pr&#233;facier. Fonction ind&#233;termin&#233;e</dc:contributor>
+                    <dc:creator>al-&#7788;&#299;b&#257;w&#299;, &#703;Abd al-La&#7789;&#299;f (1910-1981). Auteur du texte</dc:creator>
+                    <dc:date>1928</dc:date>
+                    <dc:description>[&#1575;&#1604;&#1578;&#1589;&#1608;&#1601; &#1575;&#1604;&#1573;&#1587;&#1604;&#1575;&#1605;&#1610; &#1575;&#1604;&#1593;&#1585;&#1576;&#1610;. 1928]</dc:description>
+                    <dc:description>Appartient &#224; l&#8217;ensemble documentaire : BbLevt0</dc:description>
+                    <dc:format>Nombre total de vues : 205</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bd6t5253359g</dc:identifier>
+                    <dc:language>ara</dc:language>
+                    <dc:publisher>&#1583;&#1575;&#1585; &#1575;&#1604;&#1593;&#1589;&#1585; (&#1575;&#1604;&#1602;&#1575;&#1607;&#1585;&#1577;)</dc:publisher>
+                    <dc:publisher>D&#257;r al-&#703;a&#7779;r (al-Q&#257;hira)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb44199887b</dc:relation>
+                    <dc:relation>Notice dans un autre catalogue : http://alkindi.ideo-cairo.org/manifestation/2078</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Institut dominicain d'&#233;tudes orientales, 9-750_2-6</dc:source>
+                    <dc:title>&#253;&#1575;&#1604;&#253;&#1578;&#1589;&#1608;&#1601; &#1575;&#1604;&#1573;&#1587;&#1604;&#1575;&#1605;&#1610; &#1575;&#1604;&#1593;&#1585;&#1576;&#1610; : &#1576;&#1581;&#1579; &#1601;&#1610; &#1578;&#1591;&#1608;&#1585; &#1575;&#1604;&#1601;&#1603;&#1585; &#1575;&#1604;&#1593;&#1585;&#1576;&#1610; / &#1578;&#1571;&#1604;&#1610;&#1601; &#1593;&#1576;&#1583; &#1575;&#1604;&#1604;&#1591;&#1610;&#1601; &#1575;&#1604;&#1591;&#1610;&#1576;&#1575;&#1608;&#1610; &#1576;&#1575;&#1604;&#1580;&#1575;&#1605;&#1593;&#1577; &#1575;&#65271;&#1605;&#1585;&#1610;&#1603;&#1610;&#1577; &#1576;&#1576;&#1610;&#1585;&#1608;&#1578;</dc:title>
+                    <dc:title>al-Ta&#7779;awwuf al-isl&#257;m&#299; al-&#703;arab&#299; : ba&#7717;&#7791; f&#299; ta&#7789;awwur al-fikr al-&#703;arab&#299; / ta&#702;l&#299;f &#703;Abd al-La&#7789;&#299;f al-&#7788;&#299;b&#257;w&#299; bi-l-&#486;&#257;mi&#703;a al-amr&#299;kiyya bi-Bayr&#363;t</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprim&#233;e</dc:type>
+                    <dc:type>printed monograph</dc:type>
+                </ns1:dc>
+            </ns0:recordData>
+            <ns0:recordIdentifier>ark</ns0:recordIdentifier>
+            <ns0:recordPosition>19</ns0:recordPosition>
+            <ns0:extraRecordData>
+                <epubFile />
+                <infoSupModifiable />
+                <link>https://gallica.bnf.fr/ark:/12148/bd6t5253359g</link>
+                <nqamoyen>0.0</nqamoyen>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bd6t5253359g.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bd6t5253359g</uri>
+            </ns0:extraRecordData>
+        </ns0:record>
+        

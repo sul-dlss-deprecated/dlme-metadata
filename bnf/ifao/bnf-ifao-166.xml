@@ -1,0 +1,44 @@
+<ns0:record xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns0="http://www.loc.gov/zing/srw/" xmlns:ns1="http://www.openarchives.org/OAI/2.0/oai_dc/">
+            <ns0:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</ns0:recordSchema>
+            <ns0:recordPacking>xml</ns0:recordPacking>
+            <ns0:recordData>
+                <ns1:dc>
+                    <dc:coverage>25.734167, 32.709722</dc:coverage>
+                    <dc:creator>Bisson de La Roque, Fernand (1885-1958). Fonction ind&#233;termin&#233;e</dc:creator>
+                    <dc:date>1927</dc:date>
+                    <dc:description>Num&#233;ris&#233; par le partenaire</dc:description>
+                    <dc:description>Appartient &#224; l&#8217;ensemble documentaire : BbLevt0</dc:description>
+                    <dc:description>Num&#233;ris&#233; par le partenaire</dc:description>
+                    <dc:format>1 plaque de verre : ill. ; 13 x 18 cm</dc:format>
+                    <dc:format>image/jpeg</dc:format>
+                    <dc:format>Nombre total de vues : 1</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/btv1b10101492d</dc:identifier>
+                    <dc:publisher>[s.n.]</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb44588078d</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Institut fran&#231;ais d'arch&#233;ologie orientale</dc:source>
+                    <dc:subject>Bisson de La Roque, Fernand (1885-1958)</dc:subject>
+                    <dc:subject>Fouilles arch&#233;ologiques -- &#201;gypte -- M&#233;damoud (&#201;gypte ; site arch&#233;ologique)</dc:subject>
+                    <dc:subject>M&#233;damoud (&#201;gypte)</dc:subject>
+                    <dc:title>[M&#233;damoud : monument, fragment de talatat d&#233;cor&#233; d'une repr&#233;sentation de porte et de table d'offrandes]</dc:title>
+                    <dc:type>image fixe</dc:type>
+                    <dc:type>image</dc:type>
+                    <dc:type>still image</dc:type>
+                    <dc:type>photographie</dc:type>
+                    <dc:type>photograph</dc:type>
+                </ns1:dc>
+            </ns0:recordData>
+            <ns0:recordIdentifier>ark</ns0:recordIdentifier>
+            <ns0:recordPosition>14</ns0:recordPosition>
+            <ns0:extraRecordData>
+                <epubFile />
+                <infoSupModifiable />
+                <link>https://gallica.bnf.fr/ark:/12148/btv1b10101492d</link>
+                <nqamoyen>0.0</nqamoyen>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/btv1b10101492d.thumbnail</thumbnail>
+                <typedoc>images</typedoc>
+                <uri>btv1b10101492d</uri>
+            </ns0:extraRecordData>
+        </ns0:record>
+        

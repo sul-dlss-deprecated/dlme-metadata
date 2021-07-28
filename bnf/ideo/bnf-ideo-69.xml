@@ -1,0 +1,42 @@
+<ns0:record xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns0="http://www.loc.gov/zing/srw/" xmlns:ns1="http://www.openarchives.org/OAI/2.0/oai_dc/">
+            <ns0:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</ns0:recordSchema>
+            <ns0:recordPacking>xml</ns0:recordPacking>
+            <ns0:recordData>
+                <ns1:dc>
+                    <dc:contributor>Badr al-D&#299;n, Mu&#7717;ammad. Correcteur. Fonction ind&#233;termin&#233;e</dc:contributor>
+                    <dc:creator>al-Tan&#363;&#7723;&#299;, Mu&#7717;ammad b. Mu&#7717;ammad. Auteur du texte</dc:creator>
+                    <dc:date>1909</dc:date>
+                    <dc:description>[&#1575;&#1604;&#1571;&#1602;&#1589;&#1609; &#1575;&#1604;&#1602;&#1585;&#1610;&#1576; &#1601;&#1610; &#1593;&#1604;&#1605; &#1575;&#1604;&#1576;&#1610;&#1575;&#1606;. 1292]</dc:description>
+                    <dc:description>Appartient &#224; l&#8217;ensemble documentaire : BbLevt0</dc:description>
+                    <dc:format>Nombre total de vues : 129</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bd6t5253297s</dc:identifier>
+                    <dc:language>ara</dc:language>
+                    <dc:publisher> (&#1575;&#1604;&#1602;&#1575;&#1607;&#1585;&#1577;)</dc:publisher>
+                    <dc:publisher> (&#1575;&#1604;&#1570;&#1587;&#1578;&#1575;&#1606;&#1577;)</dc:publisher>
+                    <dc:publisher> (al-Q&#257;hira)</dc:publisher>
+                    <dc:publisher> (al-&#256;sit&#257;na)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb44199800f</dc:relation>
+                    <dc:relation>Notice dans un autre catalogue : http://alkindi.ideo-cairo.org/manifestation/1492</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Institut dominicain d'&#233;tudes orientales, 9-140-10</dc:source>
+                    <dc:title>&#253;&#1575;&#1604;&#253;&#1571;&#1602;&#1589;&#1609; &#1575;&#1604;&#1602;&#1585;&#1610;&#1576; &#1601;&#1610; &#1593;&#1604;&#1605; &#1575;&#1604;&#1576;&#1610;&#1575;&#1606; / &#1578;&#1571;&#1604;&#1610;&#1601; &#1575;&#1604;&#1573;&#1605;&#1575;&#1605; &#1586;&#1610;&#1606; &#1575;&#1604;&#1583;&#1610;&#1606; &#1571;&#1576;&#1610; &#1593;&#1576;&#1583; &#1575;&#1604;&#1604;&#1607; &#1605;&#1581;&#1605;&#1583; &#1576;&#1606; &#1605;&#1581;&#1605;&#1583; &#1576;&#1606; &#1605;&#1581;&#1605;&#1583; &#1576;&#1606; &#1593;&#1605;&#1585;&#1608; &#1575;&#1604;&#1578;&#1606;&#1608;&#1582;&#1610; &#1571;&#1581;&#1583; &#1571;&#1593;&#1610;&#1575;&#1606; &#1575;&#1604;&#1605;&#1575;&#1574;&#1577; &#1575;&#1604;&#1587;&#1575;&#1576;&#1593;&#1577; &#1604;&#1604;&#1607;&#1580;&#1585;&#1577; &#1575;&#1604;&#1606;&#1576;&#1608;&#1610;&#1577;</dc:title>
+                    <dc:title>al-Aq&#7779;&#257; al-qar&#299;b f&#299; &#703;ilm al-bay&#257;n / ta&#702;l&#299;f al-im&#257;m Zayn al-D&#299;n Ab&#299; &#703;Abd All&#257;h Mu&#7717;ammad b. Mu&#7717;ammad b. Mu&#7717;ammad b. &#703;Amr al-Tan&#363;&#7723;&#299; a&#7717;ad a&#703;y&#257;n al-mi&#702;a al-s&#257;bi&#703;a li-l-hi&#487;ra al-nabawiyya</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprim&#233;e</dc:type>
+                    <dc:type>printed monograph</dc:type>
+                </ns1:dc>
+            </ns0:recordData>
+            <ns0:recordIdentifier>ark</ns0:recordIdentifier>
+            <ns0:recordPosition>17</ns0:recordPosition>
+            <ns0:extraRecordData>
+                <epubFile />
+                <infoSupModifiable />
+                <link>https://gallica.bnf.fr/ark:/12148/bd6t5253297s</link>
+                <nqamoyen>0.0</nqamoyen>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bd6t5253297s.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bd6t5253297s</uri>
+            </ns0:extraRecordData>
+        </ns0:record>
+        

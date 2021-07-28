@@ -1,0 +1,42 @@
+<ns0:record xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns0="http://www.loc.gov/zing/srw/" xmlns:ns1="http://www.openarchives.org/OAI/2.0/oai_dc/">
+            <ns0:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</ns0:recordSchema>
+            <ns0:recordPacking>xml</ns0:recordPacking>
+            <ns0:recordData>
+                <ns1:dc>
+                    <dc:creator>S&#299;m&#257;w&#299;, A&#7717;mad ibn Mu&#7717;ammad al- (11..-1184). Auteur du texte</dc:creator>
+                    <dc:date>1903</dc:date>
+                    <dc:description>[&#703;Uy&#363;n al-&#7717;aq&#257;&#702;iq wa-&#299;&#7693;&#257;&#7717; al-&#7789;ar&#257;&#702;iq wa-ka&#353;f al-dakk wa-&#299;&#7693;&#257;&#7717; al-&#353;akk. 1174]</dc:description>
+                    <dc:description>Num&#233;ris&#233; par le partenaire</dc:description>
+                    <dc:description>Appartient &#224; l&#8217;ensemble documentaire : BbLevt0</dc:description>
+                    <dc:description>Num&#233;ris&#233; par le partenaire</dc:description>
+                    <dc:format>48 pages ; 14 &#215; 19 cm</dc:format>
+                    <dc:format>Nombre total de vues : 57</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k9106144f</dc:identifier>
+                    <dc:language>ara</dc:language>
+                    <dc:language>arabe</dc:language>
+                    <dc:publisher>&#1593;&#1604;&#1609; &#1606;&#1601;&#1602;&#1577; &#1581;&#1590;&#1585;&#1577; &#1575;&#1604;&#1605;&#1581;&#1578;&#1585;&#1605; &#1575;&#1604;&#1588;&#1610;&#1582; &#1593;&#1604;&#1610; &#1593;&#1576;&#1583; &#1575;&#1604;&#1581;&#1605;&#1610;&#1583; &#1575;&#1604;&#1603;&#1578;&#1576;&#1610; (&#1575;&#1604;&#1602;&#1575;&#1607;&#1585;&#1577;)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb44588859b</dc:relation>
+                    <dc:relation>Notice dans un autre catalogue : http://alkindi.ideo-cairo.org/manifestation/9513</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Institut dominicain d'&#233;tudes orientales, 9-763/5-2</dc:source>
+                    <dc:title>&#1607;&#1584;&#1575; &#1603;&#1578;&#1575;&#1576; &#1593;&#1610;&#1608;&#1606; &#1575;&#1604;&#1581;&#1602;&#1575;&#1574;&#1602; &#1608;&#1573;&#1610;&#1590;&#1575;&#1581; &#1575;&#1604;&#1591;&#1585;&#1575;&#1574;&#1602; &#1608;&#1603;&#1588;&#1601; &#1575;&#1604;&#1583;&#1603; &#1608;&#1573;&#1610;&#1590;&#1575;&#1581; &#1575;&#1604;&#1588;&#1603; &#1601;&#1610; &#1593;&#1604;&#1605; &#1575;&#1604;&#1606;&#1608;&#1575;&#1605;&#1610;&#1587; &#1608;&#1575;&#1604;&#1581;&#1575;&#1585;&#1610;&#1602; &#1575;&#1604;&#1603;&#1576;&#1585;&#1609; &#1608;&#1575;&#1604;&#1583;&#1582;&#1606; &#1608;&#1575;&#1604;&#1578;&#1593;&#1575;&#1601;&#1610;&#1606; &#1608;&#1575;&#1604;&#1606;&#1575;&#1585;&#1606;&#1580;&#1610;&#1575;&#1578; &#1608;&#1575;&#1604;&#1582;&#1608;&#1575;&#1589; &#1575;&#1604;&#1605;&#1580;&#1585;&#1576;&#1575;&#1578; / &#1605;&#1605;&#1575; &#1575;&#1593;&#1578;&#1606;&#1609; &#1576;&#1580;&#1605;&#1593;&#1607; &#1608;&#1578;&#1571;&#1604;&#1610;&#1601;&#1607; &#1575;&#1604;&#1601;&#1602;&#1610;&#1585; &#1573;&#1604;&#1609; &#1575;&#1604;&#1604;&#1607; &#1578;&#1593;&#1575;&#1604;&#1609; &#1571;&#1576;&#1608; &#1575;&#1604;&#1602;&#1575;&#1587;&#1605; &#1571;&#1581;&#1605;&#1583; &#1576;&#1606; &#1605;&#1581;&#1605;&#1583; &#1575;&#1604;&#1605;&#1593;&#1585;&#1608;&#1601; &#1576;&#1575;&#1604;&#1593;&#1585;&#1575;&#1602;&#1610; (...)</dc:title>
+                    <dc:title>H&#257;&#7695;&#257; kit&#257;b &#703;Uy&#363;n al-&#7717;aq&#257;&#702;iq wa-&#299;&#7693;&#257;&#7717; al-&#7789;ar&#257;&#702;iq wa-ka&#353;f al-dakk wa-&#299;&#7693;&#257;&#7717; al-&#353;akk f&#299; &#703;ilm al-naw&#257;m&#299;s wa-al-ma&#7717;&#257;r&#299;q al-kubr&#225; wa-al-du&#7830;n wa-al-ta`&#257;f&#299;n wa-al-n&#257;ran&#487;iy&#257;t wa-al-&#7830;aw&#257;&#7779; wa-al-mu&#487;arrib&#257;t / mimm&#257; i&#703;tan&#225; bi-&#487;am&#703;ihi wa-ta&#702;l&#299;fihi al-faq&#299;r il&#225; All&#226;h ta&#703;&#257;l&#225; Ab&#363; al-Q&#257;sim A&#7717;mad ibn Mu&#7717;ammad al-&#703;Ir&#257;q&#299; (...)</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprim&#233;e</dc:type>
+                    <dc:type>monographie imprim&#233;e</dc:type>
+                </ns1:dc>
+            </ns0:recordData>
+            <ns0:recordIdentifier>ark</ns0:recordIdentifier>
+            <ns0:recordPosition>25</ns0:recordPosition>
+            <ns0:extraRecordData>
+                <epubFile />
+                <infoSupModifiable />
+                <link>https://gallica.bnf.fr/ark:/12148/bpt6k9106144f</link>
+                <nqamoyen>0.0</nqamoyen>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k9106144f.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bpt6k9106144f</uri>
+            </ns0:extraRecordData>
+        </ns0:record>
+        

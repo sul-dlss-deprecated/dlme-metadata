@@ -1,0 +1,48 @@
+<ns0:record xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns0="http://www.loc.gov/zing/srw/" xmlns:ns1="http://www.openarchives.org/OAI/2.0/oai_dc/">
+            <ns0:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</ns0:recordSchema>
+            <ns0:recordPacking>xml</ns0:recordPacking>
+            <ns0:recordData>
+                <ns1:dc>
+                    <dc:creator>Egypte. Physical department9. &#201;diteur scientifique</dc:creator>
+                    <dc:date>1931</dc:date>
+                    <dc:description>&#201;chelle(s) : &#201;chelles diverses</dc:description>
+                    <dc:description>Num&#233;ris&#233; par le partenaire</dc:description>
+                    <dc:description>Appartient &#224; l&#8217;ensemble documentaire : BbLevt0</dc:description>
+                    <dc:description>Num&#233;ris&#233; par le partenaire</dc:description>
+                    <dc:description>Cartes</dc:description>
+                    <dc:format>1 atlas (XV p.-41 p. de pl.) : cartes ; 67 cm</dc:format>
+                    <dc:format>image/jpeg</dc:format>
+                    <dc:format>Nombre total de vues : 93</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k91092758</dc:identifier>
+                    <dc:identifier>ISBN US</dc:identifier>
+                    <dc:language>eng</dc:language>
+                    <dc:language>anglais</dc:language>
+                    <dc:publisher> (Giza)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb445889406</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Institut fran&#231;ais d'arch&#233;ologie orientale</dc:source>
+                    <dc:subject>M&#233;t&#233;orologie -- &#201;gypte</dc:subject>
+                    <dc:subject>Climat -- &#201;gypte</dc:subject>
+                    <dc:subject>Climat</dc:subject>
+                    <dc:subject>&#201;gypte</dc:subject>
+                    <dc:subject>Meteorology -- Egypt</dc:subject>
+                    <dc:title>Meteorological atlas of Egypt / prepared by the Physical Department, Ministry of Public Works</dc:title>
+                    <dc:type>image fixe</dc:type>
+                    <dc:type>image</dc:type>
+                    <dc:type>still image</dc:type>
+                </ns1:dc>
+            </ns0:recordData>
+            <ns0:recordIdentifier>ark</ns0:recordIdentifier>
+            <ns0:recordPosition>5</ns0:recordPosition>
+            <ns0:extraRecordData>
+                <epubFile />
+                <infoSupModifiable />
+                <link>https://gallica.bnf.fr/ark:/12148/bpt6k91092758</link>
+                <nqamoyen>0.0</nqamoyen>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k91092758.thumbnail</thumbnail>
+                <typedoc>cartes</typedoc>
+                <uri>bpt6k91092758</uri>
+            </ns0:extraRecordData>
+        </ns0:record>
+        

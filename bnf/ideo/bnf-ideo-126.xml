@@ -1,0 +1,39 @@
+<ns0:record xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns0="http://www.loc.gov/zing/srw/" xmlns:ns1="http://www.openarchives.org/OAI/2.0/oai_dc/">
+            <ns0:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</ns0:recordSchema>
+            <ns0:recordPacking>xml</ns0:recordPacking>
+            <ns0:recordData>
+                <ns1:dc>
+                    <dc:creator>Ta&#7717;t&#257;n&#299;, Mu&#7717;ammad ibn Mu&#7717;ammad al- (1295-1365 ; Qu&#7789;b al-D&#299;n). Auteur du texte</dc:creator>
+                    <dc:creator>Urmaw&#299;, Ma&#7717;m&#363;d ibn Ab&#299; Bakr al- (1198-1283 ; Sir&#257;&#487; al-D&#299;n). Auteur du texte</dc:creator>
+                    <dc:description>[Law&#257;mi&#703; al-asr&#257;r f&#299; &#353;ar&#7717; Ma&#7789;&#257;li&#703; al-anw&#257;r. 1355]</dc:description>
+                    <dc:description>Appartient &#224; l&#8217;ensemble documentaire : BbLevt0</dc:description>
+                    <dc:format>251 pages ; 21 &#215; 30 cm</dc:format>
+                    <dc:format>Nombre total de vues : 279</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bd6t5253266c</dc:identifier>
+                    <dc:language>ara</dc:language>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb44588830m</dc:relation>
+                    <dc:relation>Notice dans un autre catalogue : http://alkindi.ideo-cairo.org/manifestation/10504</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Institut dominicain d'&#233;tudes orientales, 9-730_4-1</dc:source>
+                    <dc:subject>Urmaw&#299;, Ma&#7717;m&#363;d ibn Ab&#299; Bakr al- (1198-1283)</dc:subject>
+                    <dc:title>&#1605;&#1591;&#1575;&#1604;&#1593; &#1575;&#1604;&#1571;&#1606;&#1608;&#1575;&#1585; &#1601;&#1610; &#1575;&#1604;&#1581;&#1603;&#1605;&#1577; &#1608;&#1575;&#1604;&#1605;&#1606;&#1591;&#1602; / &#1604;&#1604;&#1602;&#1575;&#1590;&#1610; &#1587;&#1585;&#1575;&#1580; &#1575;&#1604;&#1583;&#1610;&#1606; &#1605;&#1581;&#1605;&#1608;&#1583; &#1576;&#1606; &#1571;&#1576;&#1610; &#1576;&#1603;&#1585; &#1575;&#1604;&#1571;&#1585;&#1605;&#1608;&#1610; &#1575;&#1604;&#1605;&#1578;&#1608;&#1601;&#1609; &#1587;&#1606;&#1577; 689 (...) ; [&#1605;&#1593; &#1588;&#1585;&#1581;&#1607; &#1604;&#1608;&#1575;&#1605;&#1593; &#1575;&#1604;&#1571;&#1587;&#1585;&#1575;&#1585; &#1604;&#1600;&#1600;] &#1602;&#1591;&#1576; &#1575;&#1604;&#1583;&#1610;&#1606; &#1605;&#1581;&#1605;&#1583; &#1576;&#1606; &#1605;&#1581;&#1605;&#1583; &#1575;&#1604;&#1585;&#1575;&#1586;&#1610; &#1575;&#1604;&#1578;&#1581;&#1578;&#1575;&#1606;&#1610; (...)</dc:title>
+                    <dc:title>Ma&#7789;&#257;li&#703; al-anw&#257;r fi- al-&#7717;ikma&#7831; wa-al-man&#7789;iq / Li-l Q&#257;&#7693;&#299; Sir&#257;&#487; al-D&#299;n Ma&#7717;m&#363;d ibn Ab&#299; Bakr al-Urmaw&#299; al-mutawwaf&#299; sana&#7831; 689 (...) ; [ma&#703; &#352;ar&#7717;ihi Law&#257;mi&#703; al-asr&#257;r l&#299;] Qu&#7789;b al-D&#299;n Mu&#7717;ammad ibn Mu&#7717;ammad al-R&#257;z&#299; al-Ta&#7717;t&#257;n&#299; (...)</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprim&#233;e</dc:type>
+                    <dc:type>printed monograph</dc:type>
+                </ns1:dc>
+            </ns0:recordData>
+            <ns0:recordIdentifier>ark</ns0:recordIdentifier>
+            <ns0:recordPosition>24</ns0:recordPosition>
+            <ns0:extraRecordData>
+                <epubFile />
+                <infoSupModifiable />
+                <link>https://gallica.bnf.fr/ark:/12148/bd6t5253266c</link>
+                <nqamoyen>0.0</nqamoyen>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bd6t5253266c.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bd6t5253266c</uri>
+            </ns0:extraRecordData>
+        </ns0:record>
+        

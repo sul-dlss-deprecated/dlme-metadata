@@ -1,0 +1,39 @@
+<ns0:record xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns0="http://www.loc.gov/zing/srw/" xmlns:ns1="http://www.openarchives.org/OAI/2.0/oai_dc/">
+            <ns0:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</ns0:recordSchema>
+            <ns0:recordPacking>xml</ns0:recordPacking>
+            <ns0:recordData>
+                <ns1:dc>
+                    <dc:contributor>Maq&#257;r&#299;, F&#299;l&#363;&#7791;&#257;&#363;s al- (al-qummu&#7779;). Correcteur</dc:contributor>
+                    <dc:contributor>Baram&#363;s&#299;, Barn&#257;b&#257; al- (Sikrit&#299;r ba&#7789;riyark&#299;). Correcteur</dc:contributor>
+                    <dc:contributor>&#486;irgis, Iql&#257;dy&#363;s. Correcteur</dc:contributor>
+                    <dc:description>[Kit&#257;b dawra&#7831; &#703;ayday al-&#7779;al&#299;b wa-al-&#353;a&#703;&#257;n&#299;n wa-&#7789;ur&#363;&#7717;&#257;t al-&#7779;awm al-kab&#299;r wa-al-&#7723;ams&#299;n. 1921]</dc:description>
+                    <dc:description>Appartient &#224; l&#8217;ensemble documentaire : BbLevt0</dc:description>
+                    <dc:format>159 pages ; 18 &#215; 25 cm</dc:format>
+                    <dc:format>Nombre total de vues : 169</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bd6t5253301q</dc:identifier>
+                    <dc:language>cop</dc:language>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb44588882v</dc:relation>
+                    <dc:relation>Notice dans un autre catalogue : http://alkindi.ideo-cairo.org/manifestation/35011</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Institut dominicain d'&#233;tudes orientales, 11-60-51</dc:source>
+                    <dc:title>&#1603;&#1578;&#1575;&#1576; &#1583;&#1608;&#1585;&#1577; &#1593;&#1610;&#1583;&#1610; &#1575;&#1604;&#1589;&#1604;&#1610;&#1576; &#1608;&#1575;&#1604;&#1588;&#1593;&#1575;&#1606;&#1610;&#1606; &#1608;&#1591;&#1585;&#1608;&#1581;&#1575;&#1578; &#1575;&#1604;&#1589;&#1608;&#1605; &#1575;&#1604;&#1603;&#1576;&#1610;&#1585; &#1608;&#1575;&#1604;&#1582;&#1605;&#1587;&#1610;&#1606; : &#1581;&#1587;&#1576; &#1578;&#1585;&#1578;&#1610;&#1576; &#1575;&#1604;&#1603;&#1606;&#1610;&#1587;&#1577; &#1575;&#1604;&#1602;&#1576;&#1591;&#1610;&#1577; &#1575;&#1604;&#1571;&#1585;&#1579;&#1608;&#1584;&#1603;&#1587;&#1610;&#1577; &#1575;&#1604;&#1605;&#1585;&#1602;&#1587;&#1610;&#1577; (&#1591;&#1576;&#1593;) / &#1571;&#1593;&#1578;&#1606;&#1609; &#1576;&#1578;&#1589;&#1581;&#1610;&#1581;&#1607; &#1608;&#1578;&#1606;&#1602;&#1610;&#1581;&#1607; &#1608;&#1591;&#1576;&#1593;&#1607; &#1575;&#1604;&#1602;&#1605;&#1589; &#1601;&#1610;&#1604;&#1608;&#1579;&#1575;&#1608;&#1587; &#1575;&#1604;&#1605;&#1602;&#1575;&#1585;&#1610; &#1608;&#1575;&#1604;&#1602;&#1605;&#1589; &#1576;&#1585;&#1606;&#1575;&#1576;&#1575; &#1575;&#1604;&#1576;&#1585;&#1605;&#1608;&#1587;&#1610; &#1575;&#1604;&#1587;&#1603;&#1585;&#1578;&#1610;&#1585; &#1575;&#1604;&#1576;&#1591;&#1585;&#1610;&#1585;&#1603; &#1608;&#1575;&#1604;&#1602;&#1587; &#1571;&#1602;&#1604;&#1575;&#1583;&#1610;&#1608;&#1587; &#1580;&#1585;&#1580;&#1587; &#1582;&#1575;&#1583;&#1605; &#1603;&#1606;&#1610;&#1587;&#1577; &#1576;&#1575;&#1576;&#1604;&#1608;&#1606;</dc:title>
+                    <dc:title>Kit&#257;b dawra&#7831; &#703;ayday al-&#7779;al&#299;b wa-al-&#353;a&#703;&#257;n&#299;n wa-&#7789;ur&#363;&#7717;&#257;t al-&#7779;awm al-kab&#299;r wa-al-&#7830;ams&#299;n : &#7717;asab tart&#299;b al-kan&#299;sa&#7831; al-qib&#7789;iyya&#7831; al-ur&#7791;&#363;&#7695;uksiyya&#7831; al-murqusiyya&#7831; (&#1591;&#1576;&#1593;) / I&#703;tan&#225; bi-ta&#7779;&#7717;&#299;&#7717;ihi wa-tank&#299;&#7717;ihi wa-&#7789;ab&#703;ihi al-qummu&#7779; Barn&#257;b&#257; al-Baram&#363;s&#299; al-sikirt&#299;r al-ba&#7789;riyark&#299; wa-al-qass Akl&#257;diy&#363;s &#486;ir&#487;is &#7830;&#257;dim kan&#299;sa&#7831; B&#257;bil&#363;n</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprim&#233;e</dc:type>
+                    <dc:type>printed monograph</dc:type>
+                </ns1:dc>
+            </ns0:recordData>
+            <ns0:recordIdentifier>ark</ns0:recordIdentifier>
+            <ns0:recordPosition>25</ns0:recordPosition>
+            <ns0:extraRecordData>
+                <epubFile />
+                <infoSupModifiable />
+                <link>https://gallica.bnf.fr/ark:/12148/bd6t5253301q</link>
+                <nqamoyen>0.0</nqamoyen>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bd6t5253301q.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bd6t5253301q</uri>
+            </ns0:extraRecordData>
+        </ns0:record>
+        

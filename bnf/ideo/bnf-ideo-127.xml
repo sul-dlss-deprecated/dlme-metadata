@@ -1,0 +1,40 @@
+<ns0:record xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns0="http://www.loc.gov/zing/srw/" xmlns:ns1="http://www.openarchives.org/OAI/2.0/oai_dc/">
+            <ns0:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</ns0:recordSchema>
+            <ns0:recordPacking>xml</ns0:recordPacking>
+            <ns0:recordData>
+                <ns1:dc>
+                    <dc:contributor>&#352;arn&#363;b&#299;, &#703;Abd al-Ma&#487;&#299;d ibn Ibr&#257;h&#299;m al- (-1929). Correcteur</dc:contributor>
+                    <dc:creator>&#352;arn&#363;b&#299;, &#703;Abd al-Ma&#487;&#299;d ibn Ibr&#257;h&#299;m al- (-1929). Auteur du texte</dc:creator>
+                    <dc:description>[&#352;ar&#7717; Ta&#772;&#700;i&#772;ya&#7831; al-sulu&#772;k ila&#769; malik al-mulu&#772;k. 1885]</dc:description>
+                    <dc:description>Comprend : al-&#352;arn&#363;b&#299;, &#703;Abd al-Ma&#487;&#299;d ibn Ibr&#257;h&#299;m, -1929 / &#1593;&#1576;&#1583; &#1575;&#1604;&#1605;&#1580;&#1610;&#1583; &#1575;&#1604;&#1588;&#1585;&#1606;&#1608;&#1576;&#1610; &#1575;&#1604;&#1571;&#1586;&#1607;&#1585;&#1610;</dc:description>
+                    <dc:description>Appartient &#224; l&#8217;ensemble documentaire : BbLevt0</dc:description>
+                    <dc:format>136 pages ; 20 &#215; 28 cm</dc:format>
+                    <dc:format>Nombre total de vues : 145</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bd6t52533282</dc:identifier>
+                    <dc:language>ara</dc:language>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb445888460</dc:relation>
+                    <dc:relation>Notice dans un autre catalogue : http://alkindi.ideo-cairo.org/manifestation/123412</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Institut dominicain d'&#233;tudes orientales, 9-759-136</dc:source>
+                    <dc:subject>&#352;arn&#363;b&#299;, A&#7717;mad ibn &#703;U&#7791;m&#257;n al- (1525-1585)</dc:subject>
+                    <dc:title>&#1607;&#1584;&#1575; &#1588;&#1585;&#1581; &#1578;&#1575;&#1574;&#1610;&#1577; &#1575;&#1604;&#1587;&#1604;&#1608;&#1603; &#1573;&#1604;&#1609; &#1605;&#1604;&#1603; &#1575;&#1604;&#1605;&#1604;&#1608;&#1603; &#1575;&#1604;&#1578;&#1610; &#1606;&#1592;&#1605;&#1607;&#1575; &#1602;&#1591;&#1576; &#1575;&#1604;&#1608;&#1580;&#1608;&#1583; &#1608;&#1593;&#1605;&#1583;&#1578;&#1610; &#1601;&#1610; &#1582;&#1591;&#1608;&#1576;&#1610; &#1575;&#1604;&#1593;&#1575;&#1585;&#1601; &#1576;&#1575;&#1604;&#1604;&#1607; &#1578;&#1593;&#1575;&#1604;&#1609; &#1587;&#1610;&#1583;&#1610; &#1571;&#1581;&#1605;&#1583; &#1593;&#1585;&#1576; &#1575;&#1604;&#1588;&#1585;&#1606;&#1608;&#1576;&#1610; &#1604;&#1580;&#1575;&#1605;&#1593;&#1607; &#1575;&#1604;&#1601;&#1602;&#1610;&#1585; &#1573;&#1604;&#1609; &#1605;&#1608;&#1604;&#1575;&#1607; &#1575;&#1604;&#1594;&#1606;&#1610; &#1593;&#1576;&#1583; &#1575;&#1604;&#1605;&#1580;&#1610;&#1583; &#1575;&#1604;&#1588;&#1585;&#1606;&#1608;&#1576;&#1610; &#1575;&#1604;&#1571;&#1586;&#1607;&#1585;&#1610; (...) : &#1608;&#1604;&#1578;&#1605;&#1575;&#1605; &#1606;&#1601;&#1593; &#1575;&#1604;&#1605;&#1585;&#1610;&#1583; &#1576;&#1605;&#1575; &#1610;&#1608;&#1589;&#1604;&#1607; &#1573;&#1604;&#1609; &#1584;&#1610; &#1575;&#1604;&#1593;&#1585;&#1588; &#1575;&#1604;&#1605;&#1580;&#1610;&#1583; &#1575;&#1587;&#1578;&#1581;&#1587;&#1606; &#1575;&#1604;&#1588;&#1575;&#1585;&#1581; (...) &#1571;&#1606; &#1610;&#1580;&#1593;&#1604; &#1593;&#1604;&#1609; &#1607;&#1575;&#1605;&#1588; &#1607;&#1584;&#1575; &#1575;&#1604;&#1603;&#1578;&#1575;&#1576; &#1588;&#1585;&#1581;&#1607; &#1593;&#1604;&#1609; &#1581;&#1603;&#1605; &#1571;&#1576;&#1606; &#1593;&#1591;&#1575;&#1569; &#1575;&#1604;&#1604;&#1607; (...)</dc:title>
+                    <dc:title>H&#226;&#7695;&#257; &#352;ar&#7717; Ta&#772;&#702;iyya&#7831; al-sulu&#772;k ila&#769; malik al-mulu&#772;k allat&#299; na&#7827;&#7827;amaha qu&#7789;b al-wu&#487;&#363;d wa-&#703;umdat&#299; f&#299; &#7723;u&#7789;&#363;b&#299; al-&#703;&#257;rif bill&#257;h ta&#703;&#257;l&#225; sayyid&#299; A&#7717;mad &#703;Arab al-&#352;arn&#363;b&#299; li-&#487;&#257;mi&#703;ihi al-faq&#299;r il&#225; mawl&#257;h al-&#289;an&#299; &#703;Abd al-Ma&#487;&#299;d al-&#352;arn&#363;b&#299; al-Azhar&#299; (...) : wa-li-tam&#257;m naf&#703; al-mur&#299;d bi-m&#257; yuwa&#7779;&#7779;ilahu il&#225; &#7695;&#299; al-&#703;ar&#353; al-ma&#487;&#299;d ista&#7717;san al-&#353;&#257;ri&#7717; (...) an ya&#487;&#703;al &#703;al&#225; h&#257;mi&#353; h&#226;&#7695;&#257; al-kit&#257;b &#352;ar&#7717;ihi &#703;al&#225; &#7716;ikam ibn &#703;A&#7789;&#257;&#702; All&#257;h (...)</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprim&#233;e</dc:type>
+                    <dc:type>printed monograph</dc:type>
+                </ns1:dc>
+            </ns0:recordData>
+            <ns0:recordIdentifier>ark</ns0:recordIdentifier>
+            <ns0:recordPosition>25</ns0:recordPosition>
+            <ns0:extraRecordData>
+                <epubFile />
+                <infoSupModifiable />
+                <link>https://gallica.bnf.fr/ark:/12148/bd6t52533282</link>
+                <nqamoyen>0.0</nqamoyen>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bd6t52533282.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bd6t52533282</uri>
+            </ns0:extraRecordData>
+        </ns0:record>
+        

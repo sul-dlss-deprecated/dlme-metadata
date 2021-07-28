@@ -1,0 +1,42 @@
+<ns0:record xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns0="http://www.loc.gov/zing/srw/" xmlns:ns1="http://www.openarchives.org/OAI/2.0/oai_dc/">
+            <ns0:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</ns0:recordSchema>
+            <ns0:recordPacking>xml</ns0:recordPacking>
+            <ns0:recordData>
+                <ns1:dc>
+                    <dc:creator>Kiepert, Heinrich (1818-1899). Auteur du texte</dc:creator>
+                    <dc:date>1861</dc:date>
+                    <dc:description>Num&#233;ris&#233; par le partenaire</dc:description>
+                    <dc:description>Appartient &#224; l&#8217;ensemble documentaire : BbLevt0</dc:description>
+                    <dc:description>Avec mode texte</dc:description>
+                    <dc:description>Num&#233;ris&#233; par le partenaire</dc:description>
+                    <dc:description>Cartes -- +* 1800......- 1899......+:19e si&#232;cle:</dc:description>
+                    <dc:format>1 atlas (24 p.) : XII cartes en coul. ; 36 cm</dc:format>
+                    <dc:format>Nombre total de vues : 85</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k9109267q</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:language>fran&#231;ais</dc:language>
+                    <dc:publisher> (Berlin)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb445889526</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Institut fran&#231;ais d'arch&#233;ologie orientale</dc:source>
+                    <dc:subject>G&#233;ographie antique</dc:subject>
+                    <dc:title>Atlas Antiquus : douze cartes pour servir &#224; l'&#233;tude de l'histoire ancienne (Sixi&#232;me &#233;dition enti&#232;rement revue et augment&#233;e)</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprim&#233;e</dc:type>
+                    <dc:type>monographie imprim&#233;e</dc:type>
+                </ns1:dc>
+            </ns0:recordData>
+            <ns0:recordIdentifier>ark</ns0:recordIdentifier>
+            <ns0:recordPosition>39</ns0:recordPosition>
+            <ns0:extraRecordData>
+                <epubFile />
+                <infoSupModifiable />
+                <link>https://gallica.bnf.fr/ark:/12148/bpt6k9109267q</link>
+                <nqamoyen>79.9</nqamoyen>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k9109267q.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bpt6k9109267q</uri>
+            </ns0:extraRecordData>
+        </ns0:record>
+        

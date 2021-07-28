@@ -1,0 +1,41 @@
+<ns0:record xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns0="http://www.loc.gov/zing/srw/" xmlns:ns1="http://www.openarchives.org/OAI/2.0/oai_dc/">
+            <ns0:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</ns0:recordSchema>
+            <ns0:recordPacking>xml</ns0:recordPacking>
+            <ns0:recordData>
+                <ns1:dc>
+                    <dc:creator>Far&#289;al&#299;, Mu&#7717;ammad (1863-1922). Auteur du texte</dc:creator>
+                    <dc:description>[Kita&#772;b al-&#703;Iqd al-nafi&#772;s bi-ta&#353;t&#803;i&#772;r wa-ta&#7723;mi&#772;s Di&#772;wa&#772;n sult&#803;a&#772;n al-&#703;a&#772;&#353;iqi&#772;n al-&#703;A&#772;rif billa&#772;h sayyidi&#772; &#699;Umar ibn al-Fa&#772;rid&#803; al-&#353;ahi&#772;r. 1899]</dc:description>
+                    <dc:description>Num&#233;ris&#233; par le partenaire</dc:description>
+                    <dc:description>Appartient &#224; l&#8217;ensemble documentaire : BbLevt0</dc:description>
+                    <dc:description>Num&#233;ris&#233; par le partenaire</dc:description>
+                    <dc:format>226 pages ; 17 &#215; 24 cm</dc:format>
+                    <dc:format>Nombre total de vues : 235</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k91059778</dc:identifier>
+                    <dc:language>ara</dc:language>
+                    <dc:language>arabe</dc:language>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb44588812p</dc:relation>
+                    <dc:relation>Notice dans un autre catalogue : http://alkindi.ideo-cairo.org/manifestation/3753</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Institut dominicain d'&#233;tudes orientales, 9-518-61c</dc:source>
+                    <dc:subject>Ibn al-F&#257;rid&#803;, &#703;Umar ibn &#703;Al&#299; &#352;araf al D&#299;n Ab&#363; al Q&#257;sim (1181-1235)</dc:subject>
+                    <dc:title>&#1603;&#1578;&#1575;&#1576; &#1575;&#1604;&#1593;&#1602;&#1583; &#1575;&#1604;&#1606;&#1601;&#1610;&#1587; &#1576;&#1578;&#1588;&#1591;&#1610;&#1585; &#1608;&#1578;&#1582;&#1605;&#1610;&#1587; &#1583;&#1610;&#1608;&#1575;&#1606; &#1587;&#1604;&#1591;&#1575;&#1606; &#1575;&#1604;&#1593;&#1575;&#1588;&#1602;&#1610;&#1606; &#1575;&#1604;&#1593;&#1575;&#1585;&#1601; &#1576;&#1575;&#1604;&#1604;&#1607; &#1587;&#1610;&#1583;&#1610; &#1593;&#1605;&#1585; &#1576;&#1606; &#1575;&#1604;&#1601;&#1575;&#1585;&#1590; &#1575;&#1604;&#1588;&#1607;&#1610;&#1585; (&#1575;&#1604;&#1591;&#1576;&#1593;&#1577; &#1575;&#1604;&#1571;&#1608;&#1604;&#1609;) / &#1604;&#1606;&#1575;&#1592;&#1605;&#1607; &#1605;&#1581;&#1605;&#1583; &#1601;&#1585;&#1594;&#1604;&#1610; &#1575;&#1604;&#1571;&#1606;&#1589;&#1575;&#1585;&#1610; (&#1575;&#1604;&#1591;&#1607;&#1591;&#1575;&#1608;&#1610;) (...)</dc:title>
+                    <dc:title>Kit&#257;b al-&#703;Iqd al-naf&#299;s bi-ta&#353;&#7789;&#299;r wa-ta&#7830;m&#299;s D&#299;w&#257;n sul&#7789;&#257;n al-&#703;&#257;&#353;iq&#299;n al-&#703;&#257;rif bi-All&#226;h sayyid&#299; &#703;Umar ibn al-F&#257;ri&#7693; al-&#353;ah&#299;r (&#1575;&#1604;&#1591;&#1576;&#1593;&#1577; &#1575;&#1604;&#1571;&#1608;&#1604;&#1609;) / Li-n&#257;&#7827;imihi Mu&#7717;ammad Far&#289;al&#299; al-An&#7779;&#257;r&#299; (al-&#7788;ah&#7789;&#257;w&#299;) (...)</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprim&#233;e</dc:type>
+                    <dc:type>monographie imprim&#233;e</dc:type>
+                </ns1:dc>
+            </ns0:recordData>
+            <ns0:recordIdentifier>ark</ns0:recordIdentifier>
+            <ns0:recordPosition>2</ns0:recordPosition>
+            <ns0:extraRecordData>
+                <epubFile />
+                <infoSupModifiable />
+                <link>https://gallica.bnf.fr/ark:/12148/bpt6k91059778</link>
+                <nqamoyen>0.0</nqamoyen>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k91059778.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bpt6k91059778</uri>
+            </ns0:extraRecordData>
+        </ns0:record>
+        

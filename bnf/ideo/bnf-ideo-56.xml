@@ -1,0 +1,40 @@
+<ns0:record xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns0="http://www.loc.gov/zing/srw/" xmlns:ns1="http://www.openarchives.org/OAI/2.0/oai_dc/">
+            <ns0:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</ns0:recordSchema>
+            <ns0:recordPacking>xml</ns0:recordPacking>
+            <ns0:recordData>
+                <ns1:dc>
+                    <dc:creator>Mu&#7789;&#299;&#703;&#299;, Mu&#7717;ammad Ba&#7723;&#299;t (1854-1935). Auteur du texte</dc:creator>
+                    <dc:description>[&#7716;&#257;&#353;iya&#7831; &#353;ar&#7717; Ab&#299; al-Barak&#257;t al-Dard&#299;r &#703;al&#225; man&#7827;&#363;matihi &#7722;ar&#299;da&#7831; al-taw&#7717;&#299;d. 1666]</dc:description>
+                    <dc:description>Num&#233;ris&#233; par le partenaire</dc:description>
+                    <dc:description>Appartient &#224; l&#8217;ensemble documentaire : BbLevt0</dc:description>
+                    <dc:description>Num&#233;ris&#233; par le partenaire</dc:description>
+                    <dc:format>219 pages ; 18 &#215; 26 cm</dc:format>
+                    <dc:format>Nombre total de vues : 229</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k91061483</dc:identifier>
+                    <dc:language>ara</dc:language>
+                    <dc:language>arabe</dc:language>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb44588827q</dc:relation>
+                    <dc:relation>Notice dans un autre catalogue : http://alkindi.ideo-cairo.org/manifestation/7236</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Institut dominicain d'&#233;tudes orientales, 9-726/2-24</dc:source>
+                    <dc:title>&#1607;&#1584;&#1607; &#1581;&#1575;&#1588;&#1610;&#1577; &#1575;&#1604;&#1593;&#1575;&#1604;&#1605; &#1575;&#1604;&#1593;&#1604;&#1575;&#1605;&#1577; &#1575;&#1604;&#1585;&#1575;&#1580;&#1610; &#1593;&#1601;&#1608; &#1605;&#1608;&#1604;&#1575;&#1607; &#1575;&#1604;&#1605;&#1602;&#1610;&#1578; &#1608;&#1604;&#1591;&#1601;&#1607; &#1575;&#1604;&#1582;&#1601;&#1610; &#1575;&#1604;&#1571;&#1587;&#1578;&#1575;&#1584; &#1575;&#1604;&#1588;&#1610;&#1582; &#1605;&#1581;&#1605;&#1583; &#1576;&#1582;&#1610;&#1578; &#1575;&#1604;&#1605;&#1591;&#1610;&#1593;&#1610; &#1575;&#1604;&#1581;&#1606;&#1601;&#1610; &#1593;&#1604;&#1609; &#1588;&#1585;&#1581; &#1575;&#1604;&#1593;&#1604;&#1575;&#1605;&#1577; &#1575;&#1604;&#1581;&#1576;&#1585; &#1575;&#1604;&#1576;&#1581;&#1585; &#1575;&#1604;&#1603;&#1575;&#1605;&#1604; &#1575;&#1604;&#1594;&#1608;&#1579; &#1575;&#1604;&#1594;&#1610;&#1579; &#1575;&#1604;&#1608;&#1575;&#1589;&#1604; &#1571;&#1576;&#1608; &#1575;&#1604;&#1576;&#1585;&#1603;&#1575;&#1578; &#1587;&#1610;&#1583;&#1610; &#1571;&#1581;&#1605;&#1583; &#1575;&#1604;&#1583;&#1585;&#1583;&#1610;&#1585; &#1593;&#1604;&#1609; &#1605;&#1606;&#1592;&#1608;&#1605;&#1578;&#1607; &#1601;&#1610; &#1575;&#1604;&#1593;&#1602;&#1575;&#1574;&#1583; &#1575;&#1604;&#1605;&#1587;&#1605;&#1575;&#1577; &#1576;&#1582;&#1585;&#1610;&#1583;&#1577; &#1575;&#1604;&#1578;&#1608;&#1581;&#1610;&#1583; (...)</dc:title>
+                    <dc:title>H&#226;&#7695;ihi &#7716;&#257;&#353;iya&#7831; al-&#703;&#257;lim al-&#703;all&#257;ma&#7831; al-r&#257;&#487;&#299; &#703;afw mawl&#257;hu al-muq&#299;t wa-lu&#7789;fihi al-ust&#257;&#7695; al-&#353;ay&#7830; Mu&#7717;ammad Ba&#7830;&#299;t al-Mu&#7789;&#299;&#703;&#299; al-&#7716;anaf&#299; &#703;al&#225; &#352;ar&#7717; al-&#703;all&#257;ma&#7831; al-&#7717;abr al-ba&#7717;r al-k&#257;mil al-&#289;aw&#7791; al-&#289;ay&#7791; al-w&#257;&#7779;il Ab&#363; al-Barak&#257;t Sayyid&#299; A&#7717;mad al-Dard&#299;r &#703;al&#225; man&#7827;&#363;matihi f&#299; al-&#703;aq&#257;&#702;id al-musamm&#257;&#7831; bi-H&#817;ar&#299;da&#7831; al-taw&#7717;&#299;d</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprim&#233;e</dc:type>
+                    <dc:type>monographie imprim&#233;e</dc:type>
+                </ns1:dc>
+            </ns0:recordData>
+            <ns0:recordIdentifier>ark</ns0:recordIdentifier>
+            <ns0:recordPosition>4</ns0:recordPosition>
+            <ns0:extraRecordData>
+                <epubFile />
+                <infoSupModifiable />
+                <link>https://gallica.bnf.fr/ark:/12148/bpt6k91061483</link>
+                <nqamoyen>0.0</nqamoyen>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k91061483.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bpt6k91061483</uri>
+            </ns0:extraRecordData>
+        </ns0:record>
+        

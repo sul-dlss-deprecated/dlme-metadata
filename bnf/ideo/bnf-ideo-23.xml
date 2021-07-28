@@ -1,0 +1,41 @@
+<ns0:record xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns0="http://www.loc.gov/zing/srw/" xmlns:ns1="http://www.openarchives.org/OAI/2.0/oai_dc/">
+            <ns0:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</ns0:recordSchema>
+            <ns0:recordPacking>xml</ns0:recordPacking>
+            <ns0:recordData>
+                <ns1:dc>
+                    <dc:contributor>Wahb&#299;, Mu&#7779;&#7789;af&#225;. Correcteur</dc:contributor>
+                    <dc:creator>&#352;arq&#257;w&#299;, &#703;Abd All&#226;h ibn &#7716;i&#487;&#257;z&#299; al- (1737-1812). Auteur du texte</dc:creator>
+                    <dc:description>[Tu&#7717;fa&#7831; al-n&#257;&#7827;ir&#299;n f&#299;-man waliya Mi&#7779;r min al-wul&#257;&#7831; wa-al-sal&#257;&#7789;&#299;n. 1802]</dc:description>
+                    <dc:description>Num&#233;ris&#233; par le partenaire</dc:description>
+                    <dc:description>Appartient &#224; l&#8217;ensemble documentaire : BbLevt0</dc:description>
+                    <dc:description>Num&#233;ris&#233; par le partenaire</dc:description>
+                    <dc:format>82 pages ; 15 &#215; 23 cm</dc:format>
+                    <dc:format>Nombre total de vues : 91</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k9106140s</dc:identifier>
+                    <dc:language>ara</dc:language>
+                    <dc:language>arabe</dc:language>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb44588873w</dc:relation>
+                    <dc:relation>Notice dans un autre catalogue : http://alkindi.ideo-cairo.org/manifestation/6426</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Institut dominicain d'&#233;tudes orientales, 9-816/3-16</dc:source>
+                    <dc:title>&#1607;&#1584;&#1607; &#1578;&#1581;&#1601;&#1577; &#1575;&#1604;&#1606;&#1575;&#1592;&#1585;&#1610;&#1606; &#1601;&#1610;&#1605;&#1606; &#1608;&#1604;&#1609; &#1605;&#1589;&#1585; &#1605;&#1606; &#1575;&#1604;&#1608;&#1604;&#1575;&#1577; &#1608;&#1575;&#1604;&#1587;&#1604;&#1575;&#1591;&#1610;&#1606; / &#1578;&#1571;&#1604;&#1610;&#1601; &#1575;&#1604;&#1573;&#1605;&#1575;&#1605; &#1575;&#1604;&#1588;&#1610;&#1582; &#1593;&#1576;&#1583; &#1575;&#1604;&#1604;&#1607; &#1576;&#1606; &#1581;&#1580;&#1575;&#1586;&#1610; &#1575;&#1604;&#1588;&#1585;&#1602;&#1575;&#1608;&#1610; (...)</dc:title>
+                    <dc:title>H&#257;&#7695;ihi tu&#7717;fa&#7831; al-n&#257;&#7827;ir&#299;n f&#299;-man waliya Mi&#7779;r min al-wul&#257;&#7831; wa-al-sal&#257;&#7789;&#299;n / ta&#702;l&#299;f al-im&#257;m al-&#353;ay&#7723; &#703;Abd All&#226;h al-&#352;arq&#257;w&#299; (...)</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprim&#233;e</dc:type>
+                    <dc:type>monographie imprim&#233;e</dc:type>
+                </ns1:dc>
+            </ns0:recordData>
+            <ns0:recordIdentifier>ark</ns0:recordIdentifier>
+            <ns0:recordPosition>21</ns0:recordPosition>
+            <ns0:extraRecordData>
+                <epubFile />
+                <infoSupModifiable />
+                <link>https://gallica.bnf.fr/ark:/12148/bpt6k9106140s</link>
+                <nqamoyen>0.0</nqamoyen>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k9106140s.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bpt6k9106140s</uri>
+            </ns0:extraRecordData>
+        </ns0:record>
+        

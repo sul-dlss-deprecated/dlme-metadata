@@ -1,0 +1,38 @@
+<ns0:record xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns0="http://www.loc.gov/zing/srw/" xmlns:ns1="http://www.openarchives.org/OAI/2.0/oai_dc/">
+            <ns0:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</ns0:recordSchema>
+            <ns0:recordPacking>xml</ns0:recordPacking>
+            <ns0:recordData>
+                <ns1:dc>
+                    <dc:creator>al-Zarq&#257;n&#299;, Ibr&#257;h&#299;m &#703;Abdull&#257;h. Auteur du texte</dc:creator>
+                    <dc:date>1920</dc:date>
+                    <dc:description>[&#1585;&#1587;&#1575;&#1604;&#1577; &#1601;&#1610; &#1575;&#1604;&#1576;&#1587;&#1605;&#1604;&#1577;&#1548; &#1608;&#1605;&#1593;&#1607;&#1575; &#1580;&#1605;&#1604;&#1577; &#1585;&#1587;&#1575;&#1574;&#1604; &#1601;&#1610; &#1575;&#1604;&#1578;&#1608;&#1581;&#1610;&#1583; &#1608;&#1575;&#1604;&#1575;&#1587;&#1578;&#1594;&#1601;&#1575;&#1585; &#1608;&#1575;&#1604;&#1575;&#1587;&#1578;&#1594;&#1575;&#1579;&#1575;&#1578; &#1608;&#1594;&#1610;&#1585;&#1607;&#1575;. 1920]</dc:description>
+                    <dc:description>Appartient &#224; l&#8217;ensemble documentaire : BbLevt0</dc:description>
+                    <dc:format>Nombre total de vues : 57</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bd6t52532595</dc:identifier>
+                    <dc:language>ara</dc:language>
+                    <dc:publisher> (&#1575;&#1604;&#1602;&#1575;&#1607;&#1585;&#1577;)</dc:publisher>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb441998980</dc:relation>
+                    <dc:relation>Notice dans un autre catalogue : http://alkindi.ideo-cairo.org/manifestation/1834</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Institut dominicain d'&#233;tudes orientales, 9-759-33</dc:source>
+                    <dc:title>&#1585;&#1587;&#1575;&#1604;&#1577; &#1601;&#1610; &#1575;&#1604;&#1576;&#1587;&#1605;&#1604;&#1577; : &#1608;&#1605;&#1593;&#1607;&#1575; &#1580;&#1605;&#1604;&#1577; &#1585;&#1587;&#1575;&#1574;&#1604; &#1601;&#1610; &#1575;&#1604;&#1578;&#1608;&#1581;&#1610;&#1583; &#1608;&#1575;&#1604;&#1575;&#1587;&#1578;&#1594;&#1601;&#1575;&#1585; &#1608;&#1575;&#1604;&#1575;&#1587;&#1578;&#1594;&#1575;&#1579;&#1575;&#1578; &#1608;&#1594;&#1610;&#1585;&#1607;&#1575; / &#1604;&#1585;&#1575;&#1580;&#1610; &#1582;&#1583;&#1605;&#1577; &#1575;&#1604;&#1606;&#1576;&#1610; &#1575;&#1604;&#1593;&#1583;&#1606;&#1575;&#1606;&#1610; &#1575;&#1604;&#1601;&#1602;&#1610;&#1585; &#1575;&#1604;&#1601;&#1575;&#1606;&#1610; &#1573;&#1576;&#1585;&#1575;&#1607;&#1610;&#1605; &#1593;&#1576;&#1583; &#1575;&#1604;&#1604;&#1607; &#1575;&#1604;&#1586;&#1585;&#1602;&#1575;&#1606;&#1610;</dc:title>
+                    <dc:title>Ris&#257;la f&#299; al-basmala : wa ma&#703;ah&#257; &#487;umlat ras&#257;&#702;il f&#299; al-taw&#7717;&#299;d wa-l-isti&#289;f&#257;r wa-l-isti&#289;&#257;&#7791;&#257;t wa-&#289;ayrih&#257; / li-r&#257;&#487;&#299; &#7723;idmat al-nab&#299; al-&#703;adn&#257;n&#299; al-faq&#299;r al-f&#257;n&#299; Ibr&#257;h&#299;m &#703;Abd All&#257;h al-Zarq&#257;n&#299;</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprim&#233;e</dc:type>
+                    <dc:type>printed monograph</dc:type>
+                </ns1:dc>
+            </ns0:recordData>
+            <ns0:recordIdentifier>ark</ns0:recordIdentifier>
+            <ns0:recordPosition>13</ns0:recordPosition>
+            <ns0:extraRecordData>
+                <epubFile />
+                <infoSupModifiable />
+                <link>https://gallica.bnf.fr/ark:/12148/bd6t52532595</link>
+                <nqamoyen>0.0</nqamoyen>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bd6t52532595.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bd6t52532595</uri>
+            </ns0:extraRecordData>
+        </ns0:record>
+        

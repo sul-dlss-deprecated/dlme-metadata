@@ -1,0 +1,50 @@
+<ns0:record xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns0="http://www.loc.gov/zing/srw/" xmlns:ns1="http://www.openarchives.org/OAI/2.0/oai_dc/">
+            <ns0:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</ns0:recordSchema>
+            <ns0:recordPacking>xml</ns0:recordPacking>
+            <ns0:recordData>
+                <ns1:dc>
+                    <dc:creator>Roug&#233;, Emmanuel de (1811-1872). Auteur du texte</dc:creator>
+                    <dc:date>1847-1856</dc:date>
+                    <dc:description>Comprend : Rapport adress&#233; &#224; M. le directeur g&#233;n&#233;ral des mus&#233;es nationaux sur l'exploration scientifique des principales collections &#233;gyptiennes renferm&#233;es dans les divers mus&#233;es publics de l'Europe - Notice de quelques textes hi&#233;roglyphiques - Examen de l'ouvrage de M. de Bunsen intitul&#233; : Aegyptens stelle in der welt geschcichte, ou, la place de l'&#201;gypte dans l'histoire du monde : suite d'articles ins&#233;r&#233;s dans les annales de philosophie chr&#233;tiennes - M&#233;langes : Le po&#235;me de Pen-Ta-Our : extrait d'un m&#233;moire sur les campagnes de Rams&#232;s II (S&#233;sostris) - A M. Leleux, &#233;diteur de la revue arch&#233;ologique : &#224; propos de deux articles de M. Champollion-Figeac - Note sur les noms &#233;gyptiens des plan&#232;tes - M&#233;moire sur quelques ph&#233;nom&#232;nes c&#233;lestes, rapport&#233;s sur les monuments &#233;gyptiens avec leur date de jour dans l'ann&#233;e vague, lu &#224; l'Acad&#233;mie des inscriptions le 24 d&#233;cembre 1852 - Bibliographie : "Introduction &#224; la chronologie des &#201;gyptiens", par Richard Lepsius, in-4&#176;, Berlin, 1848, "Nicolaische Buchhandlung"; London, J. Madden ; Paris, A. Leleux - Le po&#232;me de Pen-Ta-Our : extrait d'un m&#233;moire sur les campagnes de Rams&#232;s II (S&#233;sostris) : lu dans la s&#233;ance politique annuelle des cinq Acad&#233;mies, le 14 ao&#251;t 1856</dc:description>
+                    <dc:description>Num&#233;ris&#233; par le partenaire</dc:description>
+                    <dc:description>Appartient &#224; l&#8217;ensemble documentaire : BbLevt0</dc:description>
+                    <dc:description>Avec mode texte</dc:description>
+                    <dc:description>Num&#233;ris&#233; par le partenaire</dc:description>
+                    <dc:format>9 pi&#232;ces (24 p. ; 58 p.-2 f. de pl. d&#233;pl. ; 85 p. ; [11] p. ; [8] p. ; 23 p. ; 39 p. ; [26] p. ; 23 p.) : ill., tabl. ; 22 cm</dc:format>
+                    <dc:format>Nombre total de vues : 321</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k9106422w</dc:identifier>
+                    <dc:language>fre</dc:language>
+                    <dc:language>fran&#231;ais</dc:language>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb44588963v</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Institut fran&#231;ais d'arch&#233;ologie orientale</dc:source>
+                    <dc:subject>Rams&#232;s II (1301-1235 av. J.-C. ; pharaon)</dc:subject>
+                    <dc:subject>Po&#232;me de Qadesh</dc:subject>
+                    <dc:subject>Fouilles arch&#233;ologiques -- &#201;gypte -- 19e si&#232;cle</dc:subject>
+                    <dc:subject>Inscriptions &#233;gyptiennes -- &#201;gypte -- Antiquit&#233;</dc:subject>
+                    <dc:subject>St&#232;les -- &#201;gypte -- Antiquit&#233;</dc:subject>
+                    <dc:subject>Astronomie &#233;gyptienne -- &#201;gypte -- Antiquit&#233;</dc:subject>
+                    <dc:subject>Chronologie &#233;gyptienne</dc:subject>
+                    <dc:subject>Papyrus de Turin</dc:subject>
+                    <dc:subject>&#201;gypte ancienne</dc:subject>
+                    <dc:subject>&#201;gypte ancienne</dc:subject>
+                    <dc:title>Varia : [recueil factice] / de Roug&#233;</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprim&#233;e</dc:type>
+                    <dc:type>monographie imprim&#233;e</dc:type>
+                </ns1:dc>
+            </ns0:recordData>
+            <ns0:recordIdentifier>ark</ns0:recordIdentifier>
+            <ns0:recordPosition>3</ns0:recordPosition>
+            <ns0:extraRecordData>
+                <epubFile />
+                <infoSupModifiable />
+                <link>https://gallica.bnf.fr/ark:/12148/bpt6k9106422w</link>
+                <nqamoyen>87.21</nqamoyen>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k9106422w.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bpt6k9106422w</uri>
+            </ns0:extraRecordData>
+        </ns0:record>
+        

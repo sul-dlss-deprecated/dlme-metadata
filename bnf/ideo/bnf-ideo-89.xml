@@ -1,0 +1,39 @@
+<ns0:record xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns0="http://www.loc.gov/zing/srw/" xmlns:ns1="http://www.openarchives.org/OAI/2.0/oai_dc/">
+            <ns0:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</ns0:recordSchema>
+            <ns0:recordPacking>xml</ns0:recordPacking>
+            <ns0:recordData>
+                <ns1:dc>
+                    <dc:contributor>&#7716;asan&#299;, &#7716;usayn. Correcteur</dc:contributor>
+                    <dc:contributor>&#7716;asan&#299;, Mu&#7717;ammad. Correcteur</dc:contributor>
+                    <dc:creator>T&#803;aht&#803;&#257;w&#299;, Rif&#257;&#703;a&#7831; Badaw&#299; R&#257;fi&#703; al- (1801-1873). Auteur du texte</dc:creator>
+                    <dc:description>[Man&#257;hi&#487; al-alb&#257;b al-mi&#7779;riyya&#7831; f&#299; mab&#257;hi&#487; al-&#257;d&#257;b al-&#703;a&#7779;riyya&#7831;. 1869]</dc:description>
+                    <dc:description>Appartient &#224; l&#8217;ensemble documentaire : BbLevt0</dc:description>
+                    <dc:format>18, 296 pages ; 16 &#215; 22 cm</dc:format>
+                    <dc:format>Nombre total de vues : 323</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bd6t5253300b</dc:identifier>
+                    <dc:language>ara</dc:language>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb44588885w</dc:relation>
+                    <dc:relation>Notice dans un autre catalogue : http://alkindi.ideo-cairo.org/manifestation/35969</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Institut dominicain d'&#233;tudes orientales, 12-7-77</dc:source>
+                    <dc:title>&#1605;&#1606;&#1575;&#1607;&#1580; &#1575;&#1604;&#1571;&#1604;&#1576;&#1575;&#1576; &#1575;&#1604;&#1605;&#1589;&#1585;&#1610;&#1577; &#1601;&#1610; &#1605;&#1576;&#1575;&#1607;&#1580; &#1575;&#1604;&#1570;&#1583;&#1575;&#1576; &#1575;&#1604;&#1593;&#1589;&#1585;&#1610;&#1577; / &#1578;&#1571;&#1604;&#1610;&#1601; &#1571;&#1608;&#1581;&#1583; &#1586;&#1605;&#1575;&#1606;&#1607; &#1608;&#1606;&#1575;&#1583;&#1585;&#1577; &#1593;&#1589;&#1585;&#1607; &#1608;&#1571;&#1608;&#1575;&#1606;&#1607; &#1575;&#1604;&#1605;&#1580;&#1583; &#1601;&#1610; &#1606;&#1601;&#1593; &#1608;&#1591;&#1606;&#1607; &#1576;&#1606;&#1588;&#1585; &#1575;&#1604;&#1605;&#1606;&#1575;&#1601;&#1593; &#1581;&#1590;&#1585;&#1577; &#1575;&#1604;&#1571;&#1605;&#1610;&#1585; &#1575;&#1604;&#1605;&#1593;&#1592;&#1605; &#1585;&#1601;&#1575;&#1593;&#1577; &#1576;&#1603; &#1585;&#1575;&#1601;&#1593; &#1606;&#1575;&#1592;&#1585; &#1602;&#1604;&#1605; &#1578;&#1585;&#1580;&#1605;&#1577; &#1608;&#1571;&#1593;&#1590;&#1575;&#1569; &#1605;&#1580;&#1604;&#1587; &#1575;&#1604;&#1602;&#1608;&#1605;&#1587;&#1610;&#1608;&#1606;</dc:title>
+                    <dc:title>Kit&#257;b Man&#257;hi&#487; al-alb&#257;b al-mi&#7779;riyya&#7831; f&#299;-mab&#257;hi&#487; al-&#257;d&#257;b al-&#703;a&#7779;riyya&#7831; / ta&#702;l&#299;f aw&#7717;ad zam&#257;nihi wa-n&#257;dira&#7831; &#703;a&#7779;rihi wa-aw&#257;nihi al-mu&#487;id f&#299;-naf&#703; watanihi bi-na&#353;r al-man&#257;fi&#703; &#7717;adra&#7831; al-am&#299;r al-mu&#703;a&#7827;am Rif&#257;&#703;a&#7831; bik R&#257;fi&#703; n&#257;&#7827;ir qalam tar&#487;ama&#7831; wa-a&#703;d&#257;&#702; ma&#487;lis al-q&#363;misy&#363;n</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprim&#233;e</dc:type>
+                    <dc:type>printed monograph</dc:type>
+                </ns1:dc>
+            </ns0:recordData>
+            <ns0:recordIdentifier>ark</ns0:recordIdentifier>
+            <ns0:recordPosition>37</ns0:recordPosition>
+            <ns0:extraRecordData>
+                <epubFile />
+                <infoSupModifiable />
+                <link>https://gallica.bnf.fr/ark:/12148/bd6t5253300b</link>
+                <nqamoyen>0.0</nqamoyen>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bd6t5253300b.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bd6t5253300b</uri>
+            </ns0:extraRecordData>
+        </ns0:record>
+        

@@ -1,0 +1,37 @@
+<ns0:record xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns0="http://www.loc.gov/zing/srw/" xmlns:ns1="http://www.openarchives.org/OAI/2.0/oai_dc/">
+            <ns0:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</ns0:recordSchema>
+            <ns0:recordPacking>xml</ns0:recordPacking>
+            <ns0:recordData>
+                <ns1:dc>
+                    <dc:creator>&#486;awhar&#299;, &#7788;an&#7789;&#257;w&#299;. Auteur du texte</dc:creator>
+                    <dc:date>1911</dc:date>
+                    <dc:description>[&#1603;&#1578;&#1575;&#1576; &#1571;&#1610;&#1606; &#1575;&#1604;&#1573;&#1606;&#1587;&#1575;&#1606;. 1910]</dc:description>
+                    <dc:description>Appartient &#224; l&#8217;ensemble documentaire : BbLevt0</dc:description>
+                    <dc:format>Nombre total de vues : 281</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bd6t5253363j</dc:identifier>
+                    <dc:language>ara</dc:language>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb44199819v</dc:relation>
+                    <dc:relation>Notice dans un autre catalogue : http://alkindi.ideo-cairo.org/manifestation/6022</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Institut dominicain d'&#233;tudes orientales, 9-216-5</dc:source>
+                    <dc:title>&#1603;&#1578;&#1575;&#1576; &#1571;&#1610;&#1606; &#1575;&#1604;&#1573;&#1606;&#1587;&#1575;&#1606; / &#1578;&#1571;&#1604;&#1610;&#1601; &#1591;&#1606;&#1591;&#1575;&#1608;&#1610; &#1580;&#1608;&#1607;&#1585;&#1610;&#1548; &#1576;&#1605;&#1583;&#1585;&#1587;&#1577; &#1575;&#1604;&#1605;&#1593;&#1604;&#1605;&#1610;&#1606; &#1575;&#1604;&#1606;&#1575;&#1589;&#1585;&#1610;&#1577; &#1576;&#1575;&#1604;&#1602;&#1575;&#1607;&#1585;&#1577;</dc:title>
+                    <dc:title>Kit&#257;b ayna al-ins&#257;n / Ta&#702;l&#299;f &#7788;an&#7789;&#257;w&#299; &#486;awhar&#299;, bi-madrasat al-mu&#703;allim&#299;n al-N&#257;&#7779;iriyya bi-l-Q&#257;hira</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprim&#233;e</dc:type>
+                    <dc:type>printed monograph</dc:type>
+                </ns1:dc>
+            </ns0:recordData>
+            <ns0:recordIdentifier>ark</ns0:recordIdentifier>
+            <ns0:recordPosition>6</ns0:recordPosition>
+            <ns0:extraRecordData>
+                <epubFile />
+                <infoSupModifiable />
+                <link>https://gallica.bnf.fr/ark:/12148/bd6t5253363j</link>
+                <nqamoyen>0.0</nqamoyen>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bd6t5253363j.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bd6t5253363j</uri>
+            </ns0:extraRecordData>
+        </ns0:record>
+        

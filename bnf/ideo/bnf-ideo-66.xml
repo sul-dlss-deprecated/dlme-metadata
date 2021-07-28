@@ -1,0 +1,38 @@
+<ns0:record xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns0="http://www.loc.gov/zing/srw/" xmlns:ns1="http://www.openarchives.org/OAI/2.0/oai_dc/">
+            <ns0:recordSchema>http://www.openarchives.org/OAI/2.0/OAIdc.xsd</ns0:recordSchema>
+            <ns0:recordPacking>xml</ns0:recordPacking>
+            <ns0:recordData>
+                <ns1:dc>
+                    <dc:creator>Ibn &#703;Arab&#353;&#257;h, Ah&#803;mad ibn Muh&#803;ammad ibn &#703;Abd All&#257;h (1389-1450). Auteur du texte</dc:creator>
+                    <dc:description>[&#703;A&#487;&#257;&#702;ib al-maqd&#363;r wa-naw&#257;&#702;ib Taym&#363;r. 1440]</dc:description>
+                    <dc:description>Num&#233;ris&#233; par le partenaire</dc:description>
+                    <dc:description>Appartient &#224; l&#8217;ensemble documentaire : BbLevt0</dc:description>
+                    <dc:format>9, 243 pages ; 13 &#215; 19 cm</dc:format>
+                    <dc:format>Nombre total de vues : 263</dc:format>
+                    <dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k9109421d</dc:identifier>
+                    <dc:language>ara</dc:language>
+                    <dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb445888747</dc:relation>
+                    <dc:relation>Notice dans un autre catalogue : http://alkindi.ideo-cairo.org/manifestation/58310</dc:relation>
+                    <dc:rights>domaine public</dc:rights>
+                    <dc:rights>public domain</dc:rights>
+                    <dc:source>Institut dominicain d'&#233;tudes orientales, 9-819/1-2</dc:source>
+                    <dc:title>&#1603;&#1578;&#1575;&#1576; &#1593;&#1580;&#1575;&#1574;&#1576; &#1575;&#1604;&#1605;&#1602;&#1583;&#1608;&#1585; &#1601;&#1610; &#1571;&#1582;&#1576;&#1575;&#1585; &#1578;&#1610;&#1605;&#1608;&#1585; / &#1604;&#1604;&#1601;&#1575;&#1590;&#1604; &#1575;&#1604;&#1571;&#1583;&#1610;&#1576; &#1575;&#1604;&#1603;&#1575;&#1605;&#1604; &#1575;&#1604;&#1571;&#1585;&#1610;&#1576; &#1608;&#1581;&#1610;&#1583; &#1593;&#1589;&#1585;&#1607; &#1608;&#1601;&#1585;&#1610;&#1583; &#1583;&#1607;&#1585;&#1607; &#1571;&#1602;&#1590;&#1609; &#1575;&#1604;&#1602;&#1590;&#1575;&#1577; &#1588;&#1607;&#1575;&#1576; &#1575;&#1604;&#1583;&#1610;&#1606; &#1571;&#1581;&#1605;&#1583; &#1576;&#1606; &#1605;&#1581;&#1605;&#1583; &#1576;&#1606; &#1593;&#1576;&#1583; &#1575;&#1604;&#1604;&#1607; &#1575;&#1604;&#1583;&#1605;&#1588;&#1602;&#1610; &#1575;&#1604;&#1571;&#1606;&#1589;&#1575;&#1585;&#1610; &#1575;&#1604;&#1605;&#1593;&#1585;&#1608;&#1601; &#1576;&#1575;&#1576;&#1606; &#1593;&#1585;&#1576; &#1588;&#1575;&#1607; (...)</dc:title>
+                    <dc:title>kit&#257;b &#703;A&#487;&#257;&#702;ib al-maqd&#363;r fi a&#7830;b&#257;r Taym&#363;r / li-l-f&#257;&#7693;il al-ad&#299;b al-k&#257;mil al-ar&#299;b wa&#7717;&#299;d &#703;a&#7779;rihi wa-far&#299;d dahrihi aq&#7693;&#225; al-qu&#7693;&#257;&#7831; &#352;ih&#257;b al-D&#299;n A&#7717;mad ibn Mu&#7717;ammad ibn &#703;Abd All&#226;h al-Dima&#353;q&#299; al-An&#7779;&#257;r&#299; al-ma&#703;r&#363;f bi-Ibn &#703;Arab&#353;&#257;h (...)</dc:title>
+                    <dc:type>text</dc:type>
+                    <dc:type>monographie imprim&#233;e</dc:type>
+                    <dc:type>printed monograph</dc:type>
+                </ns1:dc>
+            </ns0:recordData>
+            <ns0:recordIdentifier>ark</ns0:recordIdentifier>
+            <ns0:recordPosition>14</ns0:recordPosition>
+            <ns0:extraRecordData>
+                <epubFile />
+                <infoSupModifiable />
+                <link>https://gallica.bnf.fr/ark:/12148/bpt6k9109421d</link>
+                <nqamoyen>0.0</nqamoyen>
+                <thumbnail>https://gallica.bnf.fr/ark:/12148/bpt6k9109421d.thumbnail</thumbnail>
+                <typedoc>monographies</typedoc>
+                <uri>bpt6k9109421d</uri>
+            </ns0:extraRecordData>
+        </ns0:record>
+        
