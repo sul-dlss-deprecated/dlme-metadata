@@ -1,0 +1,70 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <identifier>4832</identifier>
+  <datestamp>2019-02-27T12:35:21Z</datestamp>
+  <dc:title>Interview with Khadījah</dc:title>
+  <dc:title>مقابلة مع خديجة</dc:title>
+  <dc:interviewer>Zaʻtarī, Nādīyā</dc:interviewer>
+  <dc:interviewerAR>زعتري، ناديا</dc:interviewerAR>
+  <dc:interviewee>Khadījah</dc:interviewee>
+  <dc:intervieweeAR>خديجة</dc:intervieweeAR>
+  <dc:contributor />
+  <dc:contributor>خديجة</dc:contributor>
+  <dc:contributor>زعتري، ناديا</dc:contributor>
+  <dc:subject>Short stories, Arabic--Palestine--History and criticism</dc:subject>
+  <dc:subjectAR>القصص القصيرة العربية--فلسطين--تاريخ ونقد</dc:subjectAR>
+  <dc:subject>Weddings--Palestine--20th century</dc:subject>
+  <dc:subjectAR>الأعراس--فلسطين--القرن العشرون</dc:subjectAR>
+  <dc:subject>Weddings--Songs and music</dc:subject>
+  <dc:subjectAR>الأعراس--الأغاني والموسيقى</dc:subjectAR>
+  <dc:subject>Manners and customs--Palestine--20th century</dc:subject>
+  <dc:subjectAR>العادات والتقاليد--فلسطين--القرن العشرون</dc:subjectAR>
+  <dc:subject>Lullabies, Arabic--Palestine</dc:subject>
+  <dc:subjectAR>التهليلات العربية--فلسطين</dc:subjectAR>
+  <dc:otherSubject>Arabic ghazal; Barbers; Brides; Dalʻūnā; Divorce; Folk songs; God; Groom Shower; Grooms; Haifa (Palestine); Loved ones; Qurʼān; Ṣaffūrīyah (Palestine); Sewing; Singing; Swords; Zaffah; Camels; Daughters-in-law; Ḥinnah; Hospitality; Jafrā; Loved ones; Mothers; Mothers-in-law; Swings of ʻĪd; Wedding songs; Aunts; Birds; Camels; Children's songs; Circumcision; Clothing and dresses; Families; Lullabies; Maqām; Muḥammad, Prophet, 571-633; Pilgrimage; Prayers for rain; Shaykhs</dc:otherSubject>
+  <dc:biography>The interview was recorded on December 1, 1995 with Khadījah, female, born in 1911 in Ṣaffūrīyah, Palestine and resides in ʻAyn al-Ḥilwah Palestinian Refugee Camp, Lebanon.</dc:biography>
+  <dc:biographyAR>سجلت المقابلة مع خديجة في 1 كانون الثاني ديسمبر عام 1995، أنثى، ولدت عام 1911 في صفوريّة فلسطين وتقيم في مخيم عين الحلوة للاجئين الفلسطينيين، لبنان.</dc:biographyAR>
+  <dc:toc>Palestinian wedding celebration. (@ 0:00)</dc:toc>
+  <dc:tocAR>احتفالات الأعراس الفلسطينية. (@ 0:00)</dc:tocAR>
+  <dc:toc>Popular songs collection. (@ 19:8)</dc:toc>
+  <dc:tocAR>مجموعة الأغاني الشعبية. (@ 19:8)</dc:tocAR>
+  <dc:toc>Prayers and songs. (@ 32:40)</dc:toc>
+  <dc:tocAR>الأدعية والأغاني. (@ 32:40)</dc:tocAR>
+  <dc:description>Made available in DSpace on 2019-02-27T12:35:21Z (GMT). No. of bitstreams: 0
+  Previous issue date: 1995</dc:description>
+  <dc:date>1995-12-01</dc:date>
+  <dc:issuedDate>1995</dc:issuedDate>
+  <dc:createdDate>2017-08-08</dc:createdDate>
+  <dc:availableDate>2019-02-27T12:35:21Z</dc:availableDate>
+  <dc:accessionedDate>2019-02-27T12:35:21Z</dc:accessionedDate>
+  <dc:date>yyyy-mm-dd</dc:date>
+  <dc:type>Sound</dc:type>
+  <dc:identifierURI>https://n2t.net/ark:/86073/b3cp8r?src=poha-oai</dc:identifierURI>
+  <dc:identifierURL>https://libraries.aub.edu.lb/poha-viewer/render.php?cachefile=jf_0051_khadijah.xml</dc:identifierURL>
+  <dc:collectionName>POHA, Al-Jana, Folktales Collection</dc:collectionName>
+  <dc:collectionNameAR>مجموعة الجنى : الحكايات الشعبية</dc:collectionNameAR>
+  <dc:collectionID>38</dc:collectionID>
+  <dc:localID>jf_0051</dc:localID>
+  <dc:identifier>jf_0051_khadijah.xml</dc:identifier>
+  <dc:language>Arabic</dc:language>
+  <dc:relation>POHA, Al-Jana, Folktales Collection</dc:relation>
+  <dc:rights>0</dc:rights>
+  <dc:rights>The copyright holder of this interview is the Nakba Archive, all rights reserved.</dc:rights>
+  <dc:rights />
+  <dc:format>audio</dc:format>
+  <dc:duration>00:43:11</dc:duration>
+  <dc:format>mp3</dc:format>
+  <dc:village>Ṣaffūrīyah</dc:village>
+  <dc:villageAR>صفّورية</dc:villageAR>
+  <dc:interviewee_delimited>Khadijah|Khadījah</dc:interviewee_delimited>
+  <dc:village_delimited>Saffuriyah|Ṣaffūrīyah</dc:village_delimited>
+  <dc:hierarchy_browse>POHA, Al-Jana, Folktales Collection{{{_ID_}}}38</dc:hierarchy_browse>
+  <dc:hierarchy_top_id>38</dc:hierarchy_top_id>
+  <dc:hierarchy_top_title>POHA, Al-Jana, Folktales Collection</dc:hierarchy_top_title>
+  <dc:hierarchy_top_titleAR>مجموعة الجنى : الحكايات الشعبية</dc:hierarchy_top_titleAR>
+  <dc:hierarchy_parent_id>38</dc:hierarchy_parent_id>
+  <dc:hierarchy_parent_title>POHA, Al-Jana, Folktales Collection</dc:hierarchy_parent_title>
+  <dc:hierarchy_sequence>75</dc:hierarchy_sequence>
+  <dc:is_hierarchy_id>4832</dc:is_hierarchy_id>
+  <dc:is_hierarchy_title>مقابلة مع خديجة</dc:is_hierarchy_title>
+  <dc:thumbnail>https://libraries.aub.edu.lb/poha-viewer/content/thumbnails/audio.jpg</dc:thumbnail>
+</oai_dc:dc>

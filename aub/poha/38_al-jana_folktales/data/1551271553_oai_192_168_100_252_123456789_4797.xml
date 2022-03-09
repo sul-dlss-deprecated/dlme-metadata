@@ -1,0 +1,68 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <identifier>4797</identifier>
+  <datestamp>2019-02-27T12:35:16Z</datestamp>
+  <dc:title>Interview with Asʻad Abū Hawwāsh</dc:title>
+  <dc:title>مقابلة مع أسعد أبو هواش</dc:title>
+  <dc:interviewer>Abū Hawwāsh, Jābir</dc:interviewer>
+  <dc:interviewerAR>أبو هواش، جابر</dc:interviewerAR>
+  <dc:interviewee>Abū Hawwāsh, Asʻad</dc:interviewee>
+  <dc:intervieweeAR>أبو هواش، أسعد</dc:intervieweeAR>
+  <dc:contributor />
+  <dc:contributor>أبو هواش، أسعد</dc:contributor>
+  <dc:contributor>أبو هواش، جابر</dc:contributor>
+  <dc:subject>Fables, Arabic</dc:subject>
+  <dc:subjectAR>الخرافات الحيوانية العربية</dc:subjectAR>
+  <dc:subject>Jinn</dc:subject>
+  <dc:subjectAR>الجن</dc:subjectAR>
+  <dc:subject>Short stories, Arabic--Palestine</dc:subject>
+  <dc:subjectAR>القصص القصيرة العربية--فلسطين</dc:subjectAR>
+  <dc:otherSubject>Arab tribes; Food; Income; Princes; Sheep; Wives; Work; Castles; Cats; Fathers; Kingdoms; Kings; Maiden; Socio-economic conditions; Queens; Rocks; Roosters; Storytelling; Theft; Traditional medical procedures; Wedding celebration; Wives; Castles; Caves; Childbirth; Children; Clothing and dresses; Fiction; Fishermen; Gold; Guards; Heir; Dwellings; Husbands; Jinn; Kingdoms; Kings; Marriage; Socio-economic conditions; Queens; Ugliness; Victory; Wars; Wives; Camels; Chickens; Dance; Death; Disputes; Donkeys; Drought; Farm animals; Farmers; Forests; Hyenas; Jackals; Land; Lions; Means of transportation; Revenge; Singing; Water resources; Water wells</dc:otherSubject>
+  <dc:biography>The interview was recorded on April 1, 1997 with Asʻad Abū Hawwāsh, male, born in 1927 in Haifa, Palestine and resides in al-Baṣṣ Palestinian Refugee Camp, Lebanon.</dc:biography>
+  <dc:biographyAR>سجلت المقابلة مع أسعد أبو هواش في 1 نيسان ابريل عام 1997، ذكر، ولد عام 1927 في حيفا، فلسطين ويقيم في مخيم البص للاجئين الفلسطينيين، لبنان.</dc:biographyAR>
+  <dc:toc>Story of the dog barber. (@ 0:00)</dc:toc>
+  <dc:tocAR>قصة الكلب بربر. (@ 0:00)</dc:tocAR>
+  <dc:toc>The fisherman and the fish I. (@ 11:10)</dc:toc>
+  <dc:tocAR>الصياد والسمكة الجزء الأول. (@ 11:10)</dc:tocAR>
+  <dc:toc>The fisherman and the fish II . (@ 31:26)</dc:toc>
+  <dc:tocAR>الصياد والسمكة الجزء الثاني. (@ 31:26)</dc:tocAR>
+  <dc:toc>Fictions and fables. (@ 46:22)</dc:toc>
+  <dc:tocAR>القصص والخرافات الحيوانية. (@ 46:22)</dc:tocAR>
+  <dc:description>Made available in DSpace on 2019-02-27T12:35:16Z (GMT). No. of bitstreams: 0
+  Previous issue date: 1997</dc:description>
+  <dc:date>1997-04-01</dc:date>
+  <dc:issuedDate>1997</dc:issuedDate>
+  <dc:createdDate>2017-06-12</dc:createdDate>
+  <dc:availableDate>2019-02-27T12:35:16Z</dc:availableDate>
+  <dc:accessionedDate>2019-02-27T12:35:16Z</dc:accessionedDate>
+  <dc:date>yyyy-mm-dd</dc:date>
+  <dc:type>Sound</dc:type>
+  <dc:identifierURI>https://n2t.net/ark:/86073/b3hk8z?src=poha-oai</dc:identifierURI>
+  <dc:identifierURL>https://libraries.aub.edu.lb/poha-viewer/render.php?cachefile=jf_0017_asad_abu_hawwash.xml</dc:identifierURL>
+  <dc:collectionName>POHA, Al-Jana, Folktales Collection</dc:collectionName>
+  <dc:collectionNameAR>مجموعة الجنى : الحكايات الشعبية</dc:collectionNameAR>
+  <dc:collectionID>38</dc:collectionID>
+  <dc:localID>jf_0017</dc:localID>
+  <dc:identifier>jf_0017_asad_abu_hawwash.xml</dc:identifier>
+  <dc:language>Arabic</dc:language>
+  <dc:relation>POHA, Al-Jana, Folktales Collection</dc:relation>
+  <dc:rights>0</dc:rights>
+  <dc:rights>The copyright holder of this interview is the Nakba Archive, all rights reserved.</dc:rights>
+  <dc:rights />
+  <dc:format>audio</dc:format>
+  <dc:duration>01:05:38</dc:duration>
+  <dc:format>mp3</dc:format>
+  <dc:village>Haifa</dc:village>
+  <dc:villageAR>حيفا</dc:villageAR>
+  <dc:interviewee_delimited>Abu Hawwash, Asad|Abū Hawwāsh, Asʻad</dc:interviewee_delimited>
+  <dc:village_delimited>Haifa|Haifa</dc:village_delimited>
+  <dc:hierarchy_browse>POHA, Al-Jana, Folktales Collection{{{_ID_}}}38</dc:hierarchy_browse>
+  <dc:hierarchy_top_id>38</dc:hierarchy_top_id>
+  <dc:hierarchy_top_title>POHA, Al-Jana, Folktales Collection</dc:hierarchy_top_title>
+  <dc:hierarchy_top_titleAR>مجموعة الجنى : الحكايات الشعبية</dc:hierarchy_top_titleAR>
+  <dc:hierarchy_parent_id>38</dc:hierarchy_parent_id>
+  <dc:hierarchy_parent_title>POHA, Al-Jana, Folktales Collection</dc:hierarchy_parent_title>
+  <dc:hierarchy_sequence>40</dc:hierarchy_sequence>
+  <dc:is_hierarchy_id>4797</dc:is_hierarchy_id>
+  <dc:is_hierarchy_title>مقابلة مع أسعد أبو هواش</dc:is_hierarchy_title>
+  <dc:thumbnail>https://libraries.aub.edu.lb/poha-viewer/content/thumbnails/audio.jpg</dc:thumbnail>
+</oai_dc:dc>
